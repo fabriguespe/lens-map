@@ -7,24 +7,16 @@
 <br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc @alpsfinance <br /><br />
 **[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc @m1guelpf <br /><br />
 **[Garden](https://garden.withlens.app)**<br />Links only your Lens followers can access<br />cc @m1guelpf <br /><br />
-**[Lens Map Ecosystem](https://twitter.com/rekktguy/status/1582288617229406209)**<br />Here’s the list of the projects or applications which are using
-@LensProtocol
-#Lensprofile
-#lensprotocolecosystem<br />cc @rekktguy <br /><br />
 **[LensAI](https://thegallerydao.vercel.app/login)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc @thegallerydao <br /><br />
 **[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc @peduarte <br /><br />
 **[LensEncrypted Messaging](https://lens-encrypted-messaging.netlify.app/)**<br />A tool to encrypt and send message<br />cc @grgwgrgwgrgw <br /><br />
 **[Soclly](https://www.soclly.com)**<br />undefined<br />cc @socllyhq @nareshkatta99 <br /><br />
 ## Developer Tooling 👨🏼‍💻
 <br />**[API Examples](https://github.com/lens-protocol/api-examples)**<br />API Examples Repo<br />cc @devjoshstevens <br /><br />
-**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc <br /><br />
-**[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc <br /><br />
 **[Docs](https://docs.lens.xyz/docs)**<br />Official Lens API documentation<br />cc @devjoshstevens @donosonaumczuk @Zer0dot <br /><br />
-**[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc <br /><br />
 **[Lens Kit](https://github.com/daoleno/lenskit)**<br />Community build Lens Protocol UI React KIT<br />cc @dao_leno <br /><br />
 **[Lens.js](https://github.com/suhailkakar/lens.js)**<br />Community made JavaScript SDK for Lens Protocol<br />cc @SuhailKakar <br /><br />
 **[Nader Lens Frontend](https://github.com/dabit3/lens-protocol-frontend)**<br />NextJs starter kit<br />cc @dabit3 <br /><br />
-**[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc <br /><br />
 **[Scaffold Lens](https://github.com/bhargavaparoksham/scaffold-eth-lens-starter-kit)**<br />Scaffold ETH starter kit for Lens Protocol<br />cc @aparoksham <br /><br />
 **[Sepana](https://lens.sepana.io)**<br />Search layer for Lens posts<br />cc @sepana_io <br /><br />
 **[Subgraph](https://github.com/protofire/lens-protocol-subgraph)**<br />The Graph Subgraph for Lens Protocols<br />cc @thisiszinger @GuiaAkashico <br /><br />
@@ -85,7 +77,15 @@ for user-generated roadmaps, grants, endorsements, bounties, curation, and commu
 **[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
 **[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
 **[StemsDAO](https://www.stemsdao.com)**<br />undefined<br />cc <br /><br />
-## Resource
-<br />**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc <br /><br />
-## undefined
-<br />**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc <br /><br />
+## Resource 📖
+<br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc <br /><br />
+**[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc <br /><br />
+**[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc <br /><br />
+**[Lens Map Ecosystem](https://twitter.com/rekktguy/status/1582288617229406209)**<br />Here’s the list of the projects or applications which are using
+@LensProtocol
+#Lensprofile
+#lensprotocolecosystem<br />cc @rekktguy <br /><br />
+**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc <br /><br />
+**[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br />cc <br /><br />
+**[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc <br /><br />
+**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc <br /><br />
