@@ -39,13 +39,19 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
     });
 
     let md=''
+    let cate=''
     for(let i in response.results){
         let row=response.results[i]
         let url=row.properties.URL?.url
         let title=row.properties.Title?.title[0].plain_text
         let desc=row.properties.Description?.rich_text[0]?.plain_text
         let cc=row.properties.cc?.rich_text[0]?.plain_text
-     
+        let cate2=row.properties.Category?.select?.name
+        if(cate2!=cate){
+          md+=cate+'<br /><br />-------------------------';
+          cate=cate2
+          
+        }
         md+='['+title+']('+url+')'+'<br />';
         md+=(desc)+'<br />';
         cc=cc?.split(',')
