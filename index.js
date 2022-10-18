@@ -63,7 +63,6 @@ import {} from 'dotenv/config';
         //updateMeta(url)
         //getTwitter()
     }
-    console.log(csv)
     converter.json2csv(md, (err, csv) => {fs.writeFileSync('README.md', md) })
     converter.json2csv(csv, (err, csv) => {fs.writeFileSync('map.csv', csv) })
 })();
