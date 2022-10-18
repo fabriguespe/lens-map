@@ -56,7 +56,7 @@ const databaseId = '6794abb0efed454a96b7c191aba2ddca';
         md+='['+title+']('+url+')'+'<br />';
         md+=(desc)+'<br />';
         cc=cc?.split(',')
-        let cc2=''
+        let cc2='cc '
         for(let i in cc) cc2+='@'+cc[i]+' '
         md+=(cc2)
         
