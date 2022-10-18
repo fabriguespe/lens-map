@@ -1,4 +1,4 @@
-## Identity
+## Identity 🎭
 <br />[Cultivator](https://cultivator.cc)<br />Visual Explorer of the Lens Protocol Social Graph<br />@Maui__R @CultivatorLens <br /><br />
 [MashMesh](https://social.mashmesh.knn3.xyz/)<br />Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.<br />@wenqingyu <br /><br />
 [Nimi](https://nimi.eth.limo)<br />Your web3 profile page.<br />@0xNimi @davebit_ <br /><br />
@@ -13,7 +13,7 @@
 [OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br /><br /><br />
 [Raycast](https://www.raycast.com/peduarte/lenscast)<br />Web3 Social Raycast Extension built with Lens Protocol<br />@peduarte @raycastapp <br /><br />
 [Soclly](https://www.soclly.com)<br />undefined<br />@socllyhq @nareshkatta99 <br /><br />
-## Developer Tooling
+## Developer Tooling 👨🏼‍💻
 <br />[API Examples](https://github.com/lens-protocol/api-examples)<br />API Examples Repo<br />@devjoshstevens <br /><br />
 [BrandKit](https://github.com/lens-protocol/brand-kit)<br />Branding assets<br /><br /><br />
 [Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)<br />Lens Protocol contracts<br /><br /><br />
@@ -27,16 +27,16 @@
 [Sepana](https://lens.sepana.io)<br />Search layer for Lens posts<br />@sepana_io <br /><br />
 [Subgraph](https://github.com/protofire/lens-protocol-subgraph)<br />The Graph Subgraph for Lens Protocols<br />@thisiszinger @GuiaAkashico <br /><br />
 [Web3 Social Hub by Fei](https://0xfei.notion.site/0xfei/Web3-Social-Hub-by-Fei-1debcf8b42a64ea991efefffe4f3560f)<br />Web3 Social notion doc<br /><br /><br />
-## Algorithms
+## Algorithms 🧮
 <br />[LensScore](https://devpost.com/software/lensscore-for-defi-lending-and-web3-interactions)<br />LensScore is a protocol to calculate users' score based on metrics from Lens profiles and provide it to all EVM-compatible chains using RedStone Oracle.<br />@redstone_defi @Marcin_Kaz13 <br /><br />
 [Meetvers](https://app.meetvers.io/)<br />Find lens friends with similar Web3 footprint<br />@meetvers <br /><br />
-## Social Media
+## Social Media ❤️‍🔥
 <br />[Lensfrens](https://www.lensfrens.xyz/)<br />Simple curated page for your lens profiles.<br />@0xethercake @LensProtocol <br /><br />
 [Lenster](https://lenster.xyz)<br />Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿<br />@yogicodes @lensterxyz <br /><br />
 [Lenstube](https://lenstube.xyz)<br />Lenstube is a decentralized video-sharing social media platform built with Lens protocol.<br />@sasicodes @lenstubexyz <br /><br />
 [Orb](https://orb.ac)<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br />@nileshrathoree @orbwagmi <br /><br />
 [Phaver](https://phaver.com)<br />Help us curate interesting stuff online and offline and get rewarded.<br />@joonatanlintala @phaverapp <br /><br />
-## Community Tool
+## Community Tool 👫
 <br />[CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0)<br />A new era for open, decentralized content moderation in Web3.<br />@0xfeiwian @joonatanlintala @alexanderchopan @@yogicodes @pealco <br /><br />
 [Focalize](https://ethglobal.com/showcase/focalize-9vo88)<br />Browser extension that allows you to quickly share to Lens Protocol.<br />@iPaulPro <br /><br />
 [Freelansers](https://ethglobal.com/showcase/freelensers-3v207)<br />Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.<br />@inigozart <br /><br />
@@ -47,7 +47,7 @@
 [LensDrop](https://lensdrop.netlify.app/)<br />Reward your Lens Protocol followers and fans with airdrops and special prizes.<br />@tjelailah <br /><br />
 [PhiLand](https://philand.xyz)<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br />@shugo_jpn @JoshLitchman <br /><br />
 [Superfun](https://lens.superfun.social/)<br />A social app for Meme artists to get rewarded for their super fun content.<br />@SuperFunSocial <br /><br />
-## Analytics
+## Analytics 📊
 <br />[Dune](https://dune.com/gm365/lens)<br />Lens and Lenster dashboard in Lens<br />@gm365 <br /><br />
 [Dune:niftytable](https://dune.com/niftytable/Lens)<br />Dune analytics Lens dashboard by oxCofi<br />@0xKofi <br /><br />
 [Leaderbord WithLens](https://leaderboard.withlens.app/)<br />Leaderboard of everything lens<br />@m1guelpf <br /><br />
@@ -55,12 +55,12 @@
 [Lens Revenues](https://dune.com/zoma/lens-revenue)<br />A Dune dashboard with the revenue by Lens user<br /><br /><br />
 [Stats Lens](https://stats.lens.xyz/)<br />Official lens stats dashboard about posts, collects, accounts, etc.<br />@pealco <br /><br />
 [Token Terminal](https://tokenterminal.com/terminal/projects/lens)<br />Lens protocol charts<br />@tokenterminal <br /><br />
-## DAO Tools
+## DAO Tools 🗳
 <br />[Jokedao](https://www.jokedao.io/)<br />Bottom-up, on-chain governance.
 for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions—including joke contests.<br />@divine_economy @jokedao_ <br /><br />
 ## Events
 <br />[Welook](https://welook.io/)<br />Create your own POAPs, and share them with the world. Discover new wallets and POAPs.<br />@Imt0t0 @welook_io <br /><br />
-## Creator monetization
+## Creator monetization 🤑
 <br />[AaveFeeCollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AaveFeeCollectModule.sol)<br />Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.<br />@donosonaumczuk @Zer0dot <br /><br />
 [AuctionCollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AuctionCollectModule.sol)<br />This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.<br />@donosonaumczuk @Zer0dot <br /><br />
 [Coconnect](https://ethglobal.com/showcase/coconnect-gq5q4)<br />We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step.<br />@HooCrypto <br /><br />
@@ -70,15 +70,15 @@ for user-generated roadmaps, grants, endorsements, bounties, curation, and commu
 [TeaParty](https://app.teaparty.life/)<br />TeaParty empower creators to reach a larger audience and boost discoverability, while rewarding people for engaging with meaningful content<br />@teapartylife <br /><br />
 [TokenGatedReferenceModule](https://github.com/lens-protocol/modules/blob/master/contracts/reference/TokenGatedReferenceModule.sol)<br />A reference module that validates that the user who tries to reference has a required minimum balance of ERC20/ERC721 token.<br />@donosonaumczuk @Zer0dot <br /><br />
 [UpdatableOwnableFeeCollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/UpdatableOwnableFeeCollectModule.sol)<br />A fee collect module that, for each publication that uses it, mints an ERC-721 ownership-NFT to its author. Whoever owns the ownership-NFT has the rights to update the parameters required to do a successful collect operation over its underlying publication.<br />@donosonaumczuk @Zer0dot <br /><br />
-## Curation
+## Curation 🧹
 <br />[LensPort](https://lensport.io)<br />Discover, collect, and sell posts. Invest in creators you support.<br />@lensport_io <br /><br />
 [Lensta](https://www.lensta.xyz/)<br />Feed of the most recent images posted on Lens Protocol <br />@akirtovskis <br /><br />
 [Lenstag](https://drive.google.com/file/d/1eX2KSgwNsuiY16a6eAN_iZcHbgn45KH1/view)<br />Red social construida con Lens enfocada en la búsqueda y organización de contenidos personal y colectiva, donde vas a poder ordenarlos, curarlos, crearlos, explorar, coleccionar y compartir todo lo que sea de tu interés en un mismo lugar.<br />@0xfeiwian @cryptocandu @Lenstags <br /><br />
-## Bridges
+## Bridges 🌉
 <br />[InLens](https://inlens.xyz/)<br />Find your friends from Twitter in Lens Protocol. Create shareable lists.<br />@0xJuancito <br /><br />
 [Lens Share](https://lens-share.apoorv.xyz/)<br />Replicate your Tweets into Lens<br />@apoorvlathey <br /><br />
 [Reflect](https://reflect.withlens.app)<br />Reflect automatically cross-posts everything you share on Lens to Twitter. <br />@m1guelpf <br /><br />
-## Music
+## Music 🎶
 <br />[Beets](https://wavwrld.com)<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />@violettagotwavs @wavwrld @karmawav <br /><br />
 [ooh la la](https://www.oohlala.xyz/)<br />Music & Podcast NFT player (feeds Lens content)<br />@oohlala_xyz @changhwan24 <br /><br />
 [StemsDAO](https://app.stems.art/)<br />Music remix platform<br />@StemsDAO @haithamengad <br /><br />
