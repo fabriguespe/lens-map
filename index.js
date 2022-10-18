@@ -61,6 +61,8 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
 
       for(let i in results){
           let row=results[i]
+          let category=row.properties.Category?.select?.name
+          if(category!=cate)continue
           let url=row.properties.URL?.url
           let title=row.properties.Title?.title[0].plain_text
           let curated=row.properties.Curated?.checkbox
@@ -68,7 +70,6 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           let hackaton=row.properties.Hackaton?.select?.name
           let description=row.properties.Description?.rich_text[0]?.plain_text
           let cc=row.properties.cc?.rich_text[0]?.plain_text
-          let category=row.properties.Category?.select?.name
           
           csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
       
