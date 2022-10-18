@@ -47,13 +47,13 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         let cc=row.properties.cc?.rich_text[0]?.plain_text
      
         md+='['+title+']('+url+')'+'<br />';
-        md+=(desc)+'\n';
+        md+=(desc)+'<br />';
         cc=cc?.split(',')
         let cc2=''
         for(let i in cc) cc2+='@'+cc[i]+' '
         md+=(cc2)
         
-        md+=('\n\n')
+        md+=('<br /><br />')
         
         //updateMeta(url)
         //getTwitter()
