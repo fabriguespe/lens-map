@@ -5,7 +5,9 @@ import fetch from "node-fetch";
 import {Client} from "@notionhq/client";
 import extractUrls from "extract-urls";
 import {} from 'dotenv/config';
-// Initializing a client
+import { readFile } from 'fs/promises';
+
+const categories = JSON.parse(await readFile(new URL('./categories.json', import.meta.url)));
 
 (async () => {
 
@@ -71,6 +73,7 @@ import {} from 'dotenv/config';
           //goes to MD repo
           if(category!=cate){
             cate=category
+            md+=categories[cate]
             console.log(cate)
             md+='## '+cate+'\n<br />';
             
