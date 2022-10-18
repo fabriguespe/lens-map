@@ -55,41 +55,42 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
     let md=''
     let cate=''
     let csv=[]
-
-    for(let i in results){
-        let row=results[i]
-        let url=row.properties.URL?.url
-        let title=row.properties.Title?.title[0].plain_text
-        let curated=row.properties.Curated?.checkbox
-        let type=row.properties.Type?.select?.name
-        let hackaton=row.properties.Hackaton?.select?.name
-        let description=row.properties.Description?.rich_text[0]?.plain_text
-        let cc=row.properties.cc?.rich_text[0]?.plain_text
-        let category=row.properties.Category?.select?.name
-        
-        csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
-     
-        if(curated){
-          //goes to MD repo
-          if(category!=cate){
-            cate=category
-            md+='## '+cate+'\n';
-            md+=categories[cate]+'\n<br />\n<br />'
-            console.log(cate,categories[cate])
-            
-          }
-          md+='**['+title+']('+url+')**'+'<br />';
-          md+=(description)+'<br />';
-          cc=cc?.split(',')
-          let cc2='cc '
-          for(let i in cc) cc2+='@'+cc[i]+' '
-          md+=(cc?cc2:'cc undefined')
+    for (let j in categories){
+      let j=categories[0]
+      for(let i in results){
+          let row=results[i]
+          let url=row.properties.URL?.url
+          let title=row.properties.Title?.title[0].plain_text
+          let curated=row.properties.Curated?.checkbox
+          let type=row.properties.Type?.select?.name
+          let hackaton=row.properties.Hackaton?.select?.name
+          let description=row.properties.Description?.rich_text[0]?.plain_text
+          let cc=row.properties.cc?.rich_text[0]?.plain_text
+          let category=row.properties.Category?.select?.name
           
-          md+=('<br /><br />\n')
-        }
-        
-        //updateMeta(url)
-        //getTwitter()
+          csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
+      
+          if(curated){
+            //goes to MD repo
+            if(category!=cate){
+              cate=category
+              md+='## '+cate+'\n';
+              md+=categories[cate]+'\n<br />\n<br />'
+              console.log(cate,categories[cate])
+              
+            }
+            md+='**['+title+']('+url+')**'+'<br />';
+            md+=(description)+'<br />';
+            cc=cc?.split(',')
+            let cc2='cc '
+            for(let i in cc) cc2+='@'+cc[i]+' '
+            md+=(cc?cc2:'cc undefined')
+            
+            md+=('<br /><br />\n')
+          }
+          //updateMeta(url)
+          //getTwitter()
+      }
     }
     converter.json2csv(md, (err, csv) => {fs.writeFileSync('README.md', md) })
     converter.json2csv(csv, (err, csv) => {fs.writeFileSync('map.csv', csv) })
