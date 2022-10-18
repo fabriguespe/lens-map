@@ -60,7 +60,7 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         for(let i in cc) cc2+='@'+cc[i]+' '
         md+=(cc2)
         
-        md+=('<br /><br />')
+        md+=('<br /><br />\n')
         
         //updateMeta(url)
         //getTwitter()
