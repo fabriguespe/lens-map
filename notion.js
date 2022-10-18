@@ -46,7 +46,7 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         let desc=row.properties.Description?.rich_text[0]?.plain_text
         let cc=row.properties.cc?.rich_text[0]?.plain_text
      
-        md+='['+title+']('+url+')'+'\n';
+        md+='['+title+']('+url+')'+'<br />';
         md+=(desc)+'\n';
         cc=cc?.split(',')
         let cc2=''
