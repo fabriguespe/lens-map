@@ -14,7 +14,7 @@ Other
 **[LensAI](https://thegallerydao.vercel.app/login)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc @thegallerydao <br /><br />
 **[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc @peduarte <br /><br />
 **[LensEncrypted Messaging](https://lens-encrypted-messaging.netlify.app/)**<br />A tool to encrypt and send message<br />cc @grgwgrgwgrgw <br /><br />
-**[Soclly](https://www.soclly.com)**<br />undefined<br />cc @socllyhq @nareshkatta99 <br /><br />
+**[Soclly](https://www.soclly.com)**<br />Shape your Web3 dreams into reality by interacting with Web3 Gurus<br />cc @socllyhq @nareshkatta99 <br /><br />
 ## Developer Tooling 👨🏼‍💻
 Lens Protocol can be thought as a full fledge backend infrastructure that includes scalability, smart contracts, database, and authentication you can embed on your applications. Still, there are many areas in which certain tools, libraries, and integrations can help other developers built better applications.
 <br />
@@ -104,7 +104,7 @@ Music
 <br />**[Beets](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />cc @violettagotwavs @wavwrld @karmawav <br /><br />
 **[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
 **[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
-**[StemsDAO](https://www.stemsdao.com)**<br />undefined<br />cc <br /><br />
+**[StemsDAO](https://www.stemsdao.com)**<br />Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists<br />cc <br /><br />
 ## Resource 📖
 Resource
 <br />
