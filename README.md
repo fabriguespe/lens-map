@@ -6,7 +6,7 @@ Every profile has an owner and with that, we are building up an on-chain identit
 **[Nimi](https://nimi.eth.limo)**<br />Your web3 profile page.<br />cc @0xNimi @davebit_ <br /><br />
 **[Verify Me!](https://ethglobal.com/showcase/verify-me-gcmnb)**<br />VerifyMe! democratizes the verification check mark on social media via POAP’s on Lens<br />cc @gutybvv <br /><br />
 ## Other
-
+Other
 <br />
 <br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc @alpsfinance <br /><br />
 **[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc @m1guelpf <br /><br />
@@ -97,14 +97,14 @@ Because we don't own neither our content nor our social graph we are lock into w
 **[Lens Share](https://lens-share.apoorv.xyz/)**<br />Replicate your Tweets into Lens<br />cc @apoorvlathey <br /><br />
 **[Reflect](https://reflect.withlens.app)**<br />Reflect automatically cross-posts everything you share on Lens to Twitter. <br />cc @m1guelpf <br /><br />
 ## Music 🎶
-
+Music
 <br />
 <br />**[Beets](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />cc @violettagotwavs @wavwrld @karmawav <br /><br />
 **[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
 **[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
 **[StemsDAO](https://www.stemsdao.com)**<br />undefined<br />cc <br /><br />
 ## Resource 📖
-
+Resource
 <br />
 <br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc <br /><br />
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc <br /><br />
