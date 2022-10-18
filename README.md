@@ -42,7 +42,7 @@ Web2 networks all read from their unique, centralized database. There is no port
 **[Orb](https://orb.ac)**<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br />cc @nileshrathoree @orbwagmi <br /><br />
 **[Phaver](https://phaver.com)**<br />Help us curate interesting stuff online and offline and get rewarded.<br />cc @joonatanlintala @phaverapp <br /><br />
 ## Community Tool 👫
-undefined
+Throughout digital social networks people can share, connect, support, agree, debate and inspire. Tokenization creates newer and richer ways of interacting with each other.
 <br />
 <br />**[CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0)**<br />A new era for open, decentralized content moderation in Web3.<br />cc @0xfeiwian @joonatanlintala @alexanderchopan @@yogicodes @pealco <br /><br />
 **[Focalize](https://ethglobal.com/showcase/focalize-9vo88)**<br />Browser extension that allows you to quickly share to Lens Protocol.<br />cc @iPaulPro <br /><br />
@@ -75,7 +75,7 @@ IRL and remote events are embedded into our social experience. Tickets are now N
 <br />
 <br />**[Welook](https://welook.io/)**<br />Create your own POAPs, and share them with the world. Discover new wallets and POAPs.<br />cc @Imt0t0 @welook_io <br /><br />
 ## Creator monetization 🤑
-undefined
+Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.
 <br />
 <br />**[AaveFeeCollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AaveFeeCollectModule.sol)**<br />Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.<br />cc @donosonaumczuk @Zer0dot <br /><br />
 **[AuctionCollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AuctionCollectModule.sol)**<br />This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.<br />cc @donosonaumczuk @Zer0dot <br /><br />
