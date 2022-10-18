@@ -58,7 +58,7 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         //updateMeta(url)
         //getTwitter()
     }
-    converter.json2csv(md, (err, csv) => {fs.writeFileSync('new.md', md) })
+    converter.json2csv(md, (err, csv) => {fs.writeFileSync('README.md', md) })
 })();
 
 
