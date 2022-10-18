@@ -73,7 +73,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           //goes to MD repo
           if(category!=cate){
             cate=category
-            md+='## '+cate+'\n<br />';
+            md+='## '+cate+'\n';
             md+=categories[cate]+'\n<br />\n<br />'
             console.log(cate,categories[cate])
             
