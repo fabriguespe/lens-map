@@ -38,21 +38,27 @@ import {} from 'dotenv/config';
 
     let md=''
     let cate=''
+    let csv=[]
     for(let i in response.results){
         let row=response.results[i]
         let url=row.properties.URL?.url
         let title=row.properties.Title?.title[0].plain_text
-        let desc=row.properties.Description?.rich_text[0]?.plain_text
+        let curated=row.properties.Curated?.checkbox
+        let type=row.properties.Type?.select?.name
+        let hackaton=row.properties.Curated?.checkbox
+        let description=row.properties.Description?.rich_text[0]?.plain_text
         let cc=row.properties.cc?.rich_text[0]?.plain_text
-        let cate2=row.properties.Category?.select?.name
-        if(cate2!=cate){
-          cate=cate2
+        let category=row.properties.Category?.select?.name
+        
+        csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
+        if(category!=cate){
+          cate=category
           console.log(cate)
           md+='## '+cate+'\n<br />';
           
         }
         md+='**['+title+']('+url+')**'+'<br />';
-        md+=(desc)+'<br />';
+        md+=(description)+'<br />';
         cc=cc?.split(',')
         let cc2='cc '
         for(let i in cc) cc2+='@'+cc[i]+' '
@@ -63,7 +69,9 @@ import {} from 'dotenv/config';
         //updateMeta(url)
         //getTwitter()
     }
+    console.log(csv)
     converter.json2csv(md, (err, csv) => {fs.writeFileSync('README.md', md) })
+    converter.json2csv(csv, (err, csv) => {fs.writeFileSync('map.csv', csv) })
 })();
 
 

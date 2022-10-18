@@ -1,0 +1,78 @@
+title,description,cc,type,curated,hackaton,category
+Cultivator,Visual Explorer of the Lens Protocol Social Graph,"Maui__R,CultivatorLens",Application,true,true,Identity 🎭
+MashMesh,"Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.",wenqingyu,Application,true,true,Identity 🎭
+Nimi,Your web3 profile page.,"0xNimi,davebit_",Application,true,true,Identity 🎭
+Verify Me!,VerifyMe! democratizes the verification check mark on social media via POAP’s on Lens,gutybvv,Hackaton,true,true,Identity 🎭
+Alps Finance,Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. ,alpsfinance,Application,true,true,Other
+Embed,Easily embed Lens post anywhere,m1guelpf,Application,true,true,Other
+Garden,Links only your Lens followers can access,m1guelpf,Application,true,true,Other
+LensAI,Text2Image NFT generator where you can monetize your beautiful AI creations,thegallerydao,Application,true,true,Other
+Lenscast,Web3 Social Raycast Extension built with Lens Protocol,peduarte,Application,true,true,Other
+LensEncrypted Messaging,A tool to encrypt and send message,grgwgrgwgrgw,Bot,true,true,Other
+Soclly,undefined,"socllyhq,nareshkatta99",Application,true,true,Other
+API Examples,API Examples Repo,devjoshstevens,Library,true,true,Developer Tooling 👨🏼‍💻
+Docs,Official Lens API documentation,"devjoshstevens,donosonaumczuk,Zer0dot",Library,true,true,Developer Tooling 👨🏼‍💻
+Lens Kit,Community build Lens Protocol UI React KIT,dao_leno,Library,true,true,Developer Tooling 👨🏼‍💻
+Lens.js,Community made JavaScript SDK for Lens Protocol,SuhailKakar,Library,true,true,Developer Tooling 👨🏼‍💻
+Nader Lens Frontend,NextJs starter kit,dabit3,Library,true,true,Developer Tooling 👨🏼‍💻
+Scaffold Lens,Scaffold ETH starter kit for Lens Protocol,aparoksham,Library,true,true,Developer Tooling 👨🏼‍💻
+Sepana,Search layer for Lens posts,sepana_io,Hackaton,true,true,Developer Tooling 👨🏼‍💻
+Subgraph,The Graph Subgraph for Lens Protocols,"thisiszinger,GuiaAkashico",Library,true,true,Developer Tooling 👨🏼‍💻
+Web3 Social Hub by Fei,Web3 Social notion doc,undefined,Resource,true,true,Developer Tooling 👨🏼‍💻
+LensScore,LensScore is a protocol to calculate users' score based on metrics from Lens profiles and provide it to all EVM-compatible chains using RedStone Oracle.,"redstone_defi,Marcin_Kaz13",Hackaton,true,true,Algorithms 🧮
+Meetvers,Find lens friends with similar Web3 footprint,meetvers,Application,true,true,Algorithms 🧮
+Lensfrens,Simple curated page for your lens profiles.,"0xethercake,LensProtocol",Application,true,true,Social Media ❤️‍🔥
+Lenster,"Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿","yogicodes,lensterxyz",Hackaton,true,true,Social Media ❤️‍🔥
+Lenstube,Lenstube is a decentralized video-sharing social media platform built with Lens protocol.,"sasicodes,lenstubexyz",Hackaton,true,true,Social Media ❤️‍🔥
+Orb,"Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.","nileshrathoree,orbwagmi",Application,true,true,Social Media ❤️‍🔥
+Phaver,Help us curate interesting stuff online and offline and get rewarded.,"joonatanlintala,phaverapp",Application,true,true,Social Media ❤️‍🔥
+CultivatorDAO,"A new era for open, decentralized content moderation in Web3.","0xfeiwian,joonatanlintala,alexanderchopan,@yogicodes,pealco",DAO,true,true,Community Tool 👫
+Focalize,Browser extension that allows you to quickly share to Lens Protocol.,iPaulPro,Hackaton,true,true,Community Tool 👫
+Freelansers,Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.,inigozart,Hackaton,true,true,Community Tool 👫
+Greenhouse,Grow and spread your web3 roots,simmons_dan,Application,true,true,Community Tool 👫
+Handle Claim,Claim your handle,undefined,Resource,true,true,Community Tool 👫
+Lens Telegram Bot,A Lens protocol bot notifications for Telegram,ya7ya,Bot,true,true,Community Tool 👫
+LensAlert,Lens notifications in Telegram,"0xChirag,0xchetan",Bot,true,true,Community Tool 👫
+LensDrop,Reward your Lens Protocol followers and fans with airdrops and special prizes.,tjelailah,Application,true,true,Community Tool 👫
+PhiLand,Unlock Lens challenges to build your web3 cities from your wallet activities. ,"shugo_jpn,JoshLitchman",Application,true,true,Community Tool 👫
+Superfun,A social app for Meme artists to get rewarded for their super fun content.,SuperFunSocial,Application,true,true,Community Tool 👫
+Dune,Lens and Lenster dashboard in Lens,gm365,Dashboard,true,true,Analytics 📊
+Dune:niftytable,Dune analytics Lens dashboard by oxCofi,0xKofi,Dashboard,true,true,Analytics 📊
+Leaderbord WithLens,Leaderboard of everything lens,m1guelpf,Application,true,true,Analytics 📊
+Lens Analytics,The most followed Lens accounts on Lenster,0xChirag,Application,true,true,Analytics 📊
+Lens Revenues,A Dune dashboard with the revenue by Lens user,undefined,Dashboard,true,true,Analytics 📊
+Stats Lens,"Official lens stats dashboard about posts, collects, accounts, etc.",pealco,Application,true,true,Analytics 📊
+Token Terminal,Lens protocol charts,tokenterminal,Integration,true,true,Analytics 📊
+Jokedao,"Bottom-up, on-chain governance.
+for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions—including joke contests.","divine_economy,jokedao_",Application,true,true,DAO Tools 🗳
+Welook,"Create your own POAPs, and share them with the world. Discover new wallets and POAPs.","Imt0t0,welook_io",Application,true,true,Events
+AaveFeeCollectModule,Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.,"donosonaumczuk,Zer0dot",Module,true,true,Creator monetization 🤑
+AuctionCollectModule,"This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.","donosonaumczuk,Zer0dot",Module,true,true,Creator monetization 🤑
+Coconnect,"We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step.",HooCrypto,Hackaton,true,true,Creator monetization 🤑
+DegreesOfSeparationReferenceModule,"This reference module allows to set a degree of separation n
+, and then allows to comment/mirror only to profiles that are at most at n
+ degrees of separation from the author of the root publication.","donosonaumczuk,Zer0dot",Module,true,true,Creator monetization 🤑
+TeaParty,"TeaParty empower creators to reach a larger audience and boost discoverability, while rewarding people for engaging with meaningful content",teapartylife,Application,true,true,Creator monetization 🤑
+TokenGatedReferenceModule,A reference module that validates that the user who tries to reference has a required minimum balance of ERC20/ERC721 token.,"donosonaumczuk,Zer0dot",Module,true,true,Creator monetization 🤑
+UpdatableOwnableFeeCollectModule,"A fee collect module that, for each publication that uses it, mints an ERC-721 ownership-NFT to its author. Whoever owns the ownership-NFT has the rights to update the parameters required to do a successful collect operation over its underlying publication.","donosonaumczuk,Zer0dot",Module,true,true,Creator monetization 🤑
+LensPort,"Discover, collect, and sell posts. Invest in creators you support.",lensport_io,Application,true,true,Curation 🧹
+Lensta,Feed of the most recent images posted on Lens Protocol ,akirtovskis,Application,true,true,Curation 🧹
+Lenstag,"Red social construida con Lens enfocada en la búsqueda y organización de contenidos personal y colectiva, donde vas a poder ordenarlos, curarlos, crearlos, explorar, coleccionar y compartir todo lo que sea de tu interés en un mismo lugar.","0xfeiwian,cryptocandu,Lenstags",Hackaton,true,true,Curation 🧹
+InLens,Find your friends from Twitter in Lens Protocol. Create shareable lists.,0xJuancito,Application,true,true,Bridges 🌉
+Lens Share,Replicate your Tweets into Lens,apoorvlathey,Application,true,true,Bridges 🌉
+Reflect,Reflect automatically cross-posts everything you share on Lens to Twitter. ,m1guelpf,Application,true,true,Bridges 🌉
+Beets,Building infrastructure to enable unique musical experiences that connect artist with their true fans,"violettagotwavs,wavwrld,karmawav",Application,true,true,Music 🎶
+ClubSpace,ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens,lucasemanuelss,Hackaton,true,true,Music 🎶
+Ooh la la,Music & Podcast NFT player (feeds Lens content),"oohlala_xyz,changhwan24",Application,true,true,Music 🎶
+StemsDAO,undefined,undefined,Application,true,true,Music 🎶
+BrandKit,Branding assets,undefined,Resource,true,true,Resource 📖
+Contracts,Lens Protocol contracts,undefined,Resource,true,true,Resource 📖
+Lens Hotlink,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,undefined,Resource,true,true,Resource 📖
+Lens Map Ecosystem,"Here’s the list of the projects or applications which are using
+@LensProtocol
+#Lensprofile
+#lensprotocolecosystem",rekktguy,Resource,true,true,Resource 📖
+Lens useful link and resource,Lens useful link and resource,undefined,Resource,true,true,Resource 📖
+lens-map,Lens Map Notion Repo,undefined,Resource,true,true,Resource 📖
+Nader Video Tutorial,"Building a Social Media App with Lens Protocol, Next.js, and GraphQL.",undefined,Resource,true,true,Resource 📖
+OxJuancito,"A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.",undefined,Resource,true,true,Resource 📖
