@@ -1,19 +1,17 @@
-
 import getMetaData from 'metadata-scraper';
 import fs from "fs";
 import converter from 'json-2-csv';
 import fetch from "node-fetch";
 import {Client} from "@notionhq/client";
 import extractUrls from "extract-urls";
-
-
-
+import {} from 'dotenv/config';
 // Initializing a client
-const notion = new Client({ auth: 'secret_jkgkkyP2FT6fF9Vp7pB3u49sRMY1kX8M3B92lclnzTx',})
-const databaseId = '6794abb0efed454a96b7c191aba2ddca';
-
 
 (async () => {
+
+  const notion = new Client({ auth: process.env.NOTION})
+  const databaseId = process.env.DB
+
     let response = await notion.databases.query({
       database_id: databaseId,
       filter: {
@@ -53,7 +51,7 @@ const databaseId = '6794abb0efed454a96b7c191aba2ddca';
           md+='## '+cate+'\n<br />';
           
         }
-        md+='['+title+']('+url+')'+'<br />';
+        md+='[**'+title+'**]('+url+')'+'<br />';
         md+=(desc)+'<br />';
         cc=cc?.split(',')
         let cc2='cc '
