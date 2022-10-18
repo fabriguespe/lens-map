@@ -9,9 +9,11 @@ import {} from 'dotenv/config';
 
 (async () => {
 
-  const notion = new Client({ auth: process.env.NOTION})
-  const databaseId = process.env.DB
+    const notion = new Client({ auth: process.env.NOTION})
+    const databaseId = process.env.DB
 
+
+    let results = [];
     let response = await notion.databases.query({
       database_id: databaseId,
       sorts: [
@@ -26,22 +28,45 @@ import {} from 'dotenv/config';
       ],
     });
 
+    results = [...response.results];
+
+
+    while (response.has_more) {
+      response = await notion.databases.query({
+        database_id: databaseId,
+        start_cursor: response.next_cursor,
+        sorts: [
+          {
+            property: 'Category',
+            direction: 'ascending',
+          },
+          {
+            property: 'Title',
+            direction: 'ascending',
+          },
+        ],
+      });
+      results = [...results, ...response.results];
+    }
+    console.log('Results:',results.length)
+
     let md=''
     let cate=''
     let csv=[]
-    for(let i in response.results){
-        let row=response.results[i]
+
+    for(let i in results){
+        let row=results[i]
         let url=row.properties.URL?.url
         let title=row.properties.Title?.title[0].plain_text
         let curated=row.properties.Curated?.checkbox
         let type=row.properties.Type?.select?.name
-        let hackaton=row.properties.Curated?.checkbox
+        let hackaton=row.properties.Hackaton?.select?.name
         let description=row.properties.Description?.rich_text[0]?.plain_text
         let cc=row.properties.cc?.rich_text[0]?.plain_text
         let category=row.properties.Category?.select?.name
         
         csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
-
+     
         if(curated){
           //goes to MD repo
           if(category!=cate){
