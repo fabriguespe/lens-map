@@ -56,7 +56,10 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
     let cate=''
     let csv=[]
     for (let j in categories){
-      let j=categories[0]
+      let cate=categories[j]
+      md+='## '+cate+'\n';
+      md+=categories[cate]+'\n<br />\n<br />'
+
       for(let i in results){
           let row=results[i]
           let url=row.properties.URL?.url
@@ -72,13 +75,13 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
       
           if(curated){
             //goes to MD repo
-            if(category!=cate){
+            /*if(category!=cate){
               cate=category
               md+='## '+cate+'\n';
               md+=categories[cate]+'\n<br />\n<br />'
               console.log(cate,categories[cate])
               
-            }
+            }*/
             md+='**['+title+']('+url+')**'+'<br />';
             md+=(description)+'<br />';
             cc=cc?.split(',')
