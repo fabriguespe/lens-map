@@ -14,16 +14,6 @@ import {} from 'dotenv/config';
 
     let response = await notion.databases.query({
       database_id: databaseId,
-      filter: {
-        or: [
-          {
-            property: 'Curated',
-            checkbox: {
-              equals: true,
-            },
-          },
-        ],
-      },
       sorts: [
         {
           property: 'Category',
@@ -51,20 +41,24 @@ import {} from 'dotenv/config';
         let category=row.properties.Category?.select?.name
         
         csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
-        if(category!=cate){
-          cate=category
-          console.log(cate)
-          md+='## '+cate+'\n<br />';
+
+        if(curated){
+          //goes to MD repo
+          if(category!=cate){
+            cate=category
+            console.log(cate)
+            md+='## '+cate+'\n<br />';
+            
+          }
+          md+='**['+title+']('+url+')**'+'<br />';
+          md+=(description)+'<br />';
+          cc=cc?.split(',')
+          let cc2='cc '
+          for(let i in cc) cc2+='@'+cc[i]+' '
+          md+=(cc2)
           
+          md+=('<br /><br />\n')
         }
-        md+='**['+title+']('+url+')**'+'<br />';
-        md+=(description)+'<br />';
-        cc=cc?.split(',')
-        let cc2='cc '
-        for(let i in cc) cc2+='@'+cc[i]+' '
-        md+=(cc2)
-        
-        md+=('<br /><br />\n')
         
         //updateMeta(url)
         //getTwitter()
