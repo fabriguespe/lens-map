@@ -49,7 +49,8 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         let cate2=row.properties.Category?.select?.name
         if(cate2!=cate){
           cate=cate2
-          md+='##'+cate+'<br /><br />-------------------------<br /><br />';
+          console.log(cate)
+          md+='###'+cate+'###<br /><br />-------------------------<br /><br />';
           
         }
         md+='['+title+']('+url+')'+'<br />';
