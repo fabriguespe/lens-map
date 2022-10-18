@@ -1,6 +1,6 @@
 ## Social Media ❤️‍🔥
 Web2 networks all read from their unique, centralized database. There is no portability. Your profile, friends, and content are locked to a specific network and owned by the network operator. This causes each network to fight a zero-sum game for your attention.
- Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
+<br> Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
 <br />
 <br />**[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc @0xethercake @LensProtocol <br /><br />
 **[Lenster](https://lenster.xyz)**<br />Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿<br />cc @yogicodes @lensterxyz <br /><br />
@@ -31,7 +31,7 @@ Analytics is important for maintaining ecosystem transparency, protocol health, 
 **[Token Terminal](https://tokenterminal.com/terminal/projects/lens)**<br />Lens protocol charts<br />cc @tokenterminal <br /><br />
 ## DAO Tools 🗳
 DAOs embody the promise of decentralized ownership and distributed operations. DAOs manage votes, decisions and assets, bypassing traditional legal set-ups. As DAOs continue to evolve, they will need help to improve how they assemble, organize, communicate and operate.
- Follow NFTs include built-in governance mechanisms. When following a profile, followers obtain a FollowNFT, which is the core building block of the Lens Protocol social graph. From a technical perspective, these NFTs contain governance-specific logic that allows any profile can spin up a DAO in minutes.
+<br> Follow NFTs include built-in governance mechanisms. When following a profile, followers obtain a FollowNFT, which is the core building block of the Lens Protocol social graph. From a technical perspective, these NFTs contain governance-specific logic that allows any profile can spin up a DAO in minutes.
 <br />
 <br />**[Jokedao](https://www.jokedao.io/)**<br />Bottom-up, on-chain governance.
 for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions—including joke contests.<br />cc @divine_economy @jokedao_ <br /><br />
