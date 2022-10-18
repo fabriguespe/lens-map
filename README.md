@@ -7,11 +7,13 @@
 <br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc @alpsfinance <br /><br />
 **[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc @m1guelpf <br /><br />
 **[Garden](https://garden.withlens.app)**<br />Links only your Lens followers can access<br />cc @m1guelpf <br /><br />
-**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc <br /><br />
+**[Lens Map Ecosystem](https://twitter.com/rekktguy/status/1582288617229406209)**<br />Here’s the list of the projects or applications which are using
+@LensProtocol
+#Lensprofile
+#lensprotocolecosystem<br />cc @rekktguy <br /><br />
 **[LensAI](https://thegallerydao.vercel.app/login)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc @thegallerydao <br /><br />
+**[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc @peduarte <br /><br />
 **[LensEncrypted Messaging](https://lens-encrypted-messaging.netlify.app/)**<br />A tool to encrypt and send message<br />cc @grgwgrgwgrgw <br /><br />
-**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc <br /><br />
-**[Raycast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc @peduarte @raycastapp <br /><br />
 **[Soclly](https://www.soclly.com)**<br />undefined<br />cc @socllyhq @nareshkatta99 <br /><br />
 ## Developer Tooling 👨🏼‍💻
 <br />**[API Examples](https://github.com/lens-protocol/api-examples)**<br />API Examples Repo<br />cc @devjoshstevens <br /><br />
@@ -80,5 +82,10 @@ for user-generated roadmaps, grants, endorsements, bounties, curation, and commu
 **[Reflect](https://reflect.withlens.app)**<br />Reflect automatically cross-posts everything you share on Lens to Twitter. <br />cc @m1guelpf <br /><br />
 ## Music 🎶
 <br />**[Beets](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />cc @violettagotwavs @wavwrld @karmawav <br /><br />
-**[ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
-**[StemsDAO](https://app.stems.art/)**<br />Music remix platform<br />cc @StemsDAO @haithamengad <br /><br />
+**[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
+**[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
+**[StemsDAO](https://www.stemsdao.com)**<br />undefined<br />cc <br /><br />
+## Resource
+<br />**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc <br /><br />
+## undefined
+<br />**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc <br /><br />
