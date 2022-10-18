@@ -8,9 +8,9 @@
     "Curation 🧹":"Curators amplify creator content by expanding its distribution reach. Curation involves gathering, elevating, and commenting on content for specific audiences. Curation is its own unique form of creation, and demands unique tools to do it.",
     "Events":"IRL and remote events are embedded into our social experience. Tickets are now NFT's that can be transfer or re-sold in open markets. We also have Proof Attendance via POAP's and a like that become our memories and our identity.",
     "Bridges 🌉":"Because we don't own neither our content nor our social graph we are lock into web2 networks. This adds a lot of friction when we try to bring people into web3 social. To start challenging these big network effects we need to have tools that make the transition easier.",
-    "Music 🎶":"Music",
-    "Other":"Other",
-    "Resource 📖":"Resource",
     "Algorithms 🧮":"One challenge that every social application faces is how to moderate content and prevent spam in a censorship-resistant way. We know that if left unmoderated, spam and bots can ruin the experience and the trust and safety of the users.",
-    "Community Tool 👫":"Throughout digital social networks people can share, connect, support, agree, debate and inspire. Tokenization creates newer and richer ways of interacting with each other."
+    "Community Tool 👫":"Throughout digital social networks people can share, connect, support, agree, debate and inspire. Tokenization creates newer and richer ways of interacting with each other.",
+    "Music 🎶":"Music",
+    "Resource 📖":"Resource",
+    "Other":"Other"
 }

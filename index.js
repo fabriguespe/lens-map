@@ -32,7 +32,6 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
 
     results = [...response.results];
 
-
     while (response.has_more) {
       response = await notion.databases.query({
         database_id: databaseId,
@@ -55,11 +54,11 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
     let md=''
     let cate=''
     let csv=[]
-    for (let j in categories){
-      let cate=categories[j]
+    for (let cate in categories){
       md+='## '+cate+'\n';
       md+=categories[cate]+'\n<br />\n<br />'
-      console.log(md)
+      console.log(cate)
+
       for(let i in results){
           let row=results[i]
           let url=row.properties.URL?.url
