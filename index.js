@@ -59,7 +59,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
       let cate=categories[j]
       md+='## '+cate+'\n';
       md+=categories[cate]+'\n<br />\n<br />'
-
+      console.log(md)
       for(let i in results){
           let row=results[i]
           let url=row.properties.URL?.url
