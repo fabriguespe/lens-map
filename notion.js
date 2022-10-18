@@ -50,7 +50,7 @@ const databaseId = 'c41be7d31c5b4460bfbeef6361043cbd';
         if(cate2!=cate){
           cate=cate2
           console.log(cate)
-          md+='## '+cate+'<br /><br />-------------------------<br /><br />';
+          md+='## '+cate+'<br /><br />-------------------------<br /><br />\n';
           
         }
         md+='['+title+']('+url+')'+'<br />';
