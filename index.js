@@ -83,7 +83,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           cc=cc?.split(',')
           let cc2='cc '
           for(let i in cc) cc2+='@'+cc[i]+' '
-          md+=(cc2.length==0?'undefined':cc2)
+          md+=(cc?cc2:'cc undefined')
           
           md+=('<br /><br />\n')
         }

@@ -26,7 +26,7 @@ Lens Protocol can be thought as a full fledge backend infrastructure that includ
 **[Scaffold Lens](https://github.com/bhargavaparoksham/scaffold-eth-lens-starter-kit)**<br />Scaffold ETH starter kit for Lens Protocol<br />cc @aparoksham <br /><br />
 **[Sepana](https://lens.sepana.io)**<br />Search layer for Lens posts<br />cc @sepana_io <br /><br />
 **[Subgraph](https://github.com/protofire/lens-protocol-subgraph)**<br />The Graph Subgraph for Lens Protocols<br />cc @thisiszinger @GuiaAkashico <br /><br />
-**[Web3 Social Hub by Fei](https://0xfei.notion.site/0xfei/Web3-Social-Hub-by-Fei-1debcf8b42a64ea991efefffe4f3560f)**<br />Web3 Social notion doc<br />cc <br /><br />
+**[Web3 Social Hub by Fei](https://0xfei.notion.site/0xfei/Web3-Social-Hub-by-Fei-1debcf8b42a64ea991efefffe4f3560f)**<br />Web3 Social notion doc<br />cc undefined<br /><br />
 ## Algorithms 🧮
 One challenge that every social application faces is how to moderate content and prevent spam in a censorship-resistant way. We know that if left unmoderated, spam and bots can ruin the experience and the trust and safety of the users.
 <br />
@@ -48,7 +48,7 @@ Throughout digital social networks people can share, connect, support, agree, de
 **[Focalize](https://ethglobal.com/showcase/focalize-9vo88)**<br />Browser extension that allows you to quickly share to Lens Protocol.<br />cc @iPaulPro <br /><br />
 **[Freelansers](https://ethglobal.com/showcase/freelensers-3v207)**<br />Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.<br />cc @inigozart <br /><br />
 **[Greenhouse](https://greenhouse.social/)**<br />Grow and spread your web3 roots<br />cc @simmons_dan <br /><br />
-**[Handle Claim](https://claim.lens.xyz/)**<br />Claim your handle<br />cc <br /><br />
+**[Handle Claim](https://claim.lens.xyz/)**<br />Claim your handle<br />cc undefined<br /><br />
 **[Lens Telegram Bot](https://t.me/lenstream_bot)**<br />A Lens protocol bot notifications for Telegram<br />cc @ya7ya <br /><br />
 **[LensAlert](https://lensalert.me)**<br />Lens notifications in Telegram<br />cc @0xChirag @0xchetan <br /><br />
 **[LensDrop](https://lensdrop.netlify.app/)**<br />Reward your Lens Protocol followers and fans with airdrops and special prizes.<br />cc @tjelailah <br /><br />
@@ -61,7 +61,7 @@ Analytics is important for maintaining ecosystem transparency, protocol health, 
 **[Dune:niftytable](https://dune.com/niftytable/Lens)**<br />Dune analytics Lens dashboard by oxCofi<br />cc @0xKofi <br /><br />
 **[Leaderbord WithLens](https://leaderboard.withlens.app/)**<br />Leaderboard of everything lens<br />cc @m1guelpf <br /><br />
 **[Lens Analytics](https://www.lensanalytics.xyz/)**<br />The most followed Lens accounts on Lenster<br />cc @0xChirag <br /><br />
-**[Lens Revenues](https://dune.com/zoma/lens-revenue)**<br />A Dune dashboard with the revenue by Lens user<br />cc <br /><br />
+**[Lens Revenues](https://dune.com/zoma/lens-revenue)**<br />A Dune dashboard with the revenue by Lens user<br />cc undefined<br /><br />
 **[Stats Lens](https://stats.lens.xyz/)**<br />Official lens stats dashboard about posts, collects, accounts, etc.<br />cc @pealco <br /><br />
 **[Token Terminal](https://tokenterminal.com/terminal/projects/lens)**<br />Lens protocol charts<br />cc @tokenterminal <br /><br />
 ## DAO Tools 🗳
@@ -104,18 +104,18 @@ Music
 <br />**[Beets](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />cc @violettagotwavs @wavwrld @karmawav <br /><br />
 **[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
 **[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
-**[StemsDAO](https://www.stemsdao.com)**<br />Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists<br />cc <br /><br />
+**[StemsDAO](https://www.stemsdao.com)**<br />Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists<br />cc undefined<br /><br />
 ## Resource 📖
 Resource
 <br />
-<br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc <br /><br />
-**[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc <br /><br />
-**[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc <br /><br />
+<br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc undefined<br /><br />
+**[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc undefined<br /><br />
+**[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc undefined<br /><br />
 **[Lens Map Ecosystem](https://twitter.com/rekktguy/status/1582288617229406209)**<br />Here’s the list of the projects or applications which are using
 @LensProtocol
 #Lensprofile
 #lensprotocolecosystem<br />cc @rekktguy <br /><br />
-**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc <br /><br />
-**[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br />cc <br /><br />
-**[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc <br /><br />
-**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc <br /><br />
+**[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc undefined<br /><br />
+**[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br />cc undefined<br /><br />
+**[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc undefined<br /><br />
+**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc undefined<br /><br />
