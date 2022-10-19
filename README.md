@@ -2,8 +2,7 @@
 Web2 networks all read from their unique, centralized database. There is no portability. Your profile, friends, and content are locked to a specific network and owned by the network operator. This causes each network to fight a zero-sum game for your attention.
 <br><br> Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
 <br />
-<br />**[Fanstastic](https://fanstastic.app/)**<br />undefined<br />cc undefined<br /><br />
-**[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc @0xethercake @LensProtocol <br /><br />
+<br />**[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc @0xethercake @LensProtocol <br /><br />
 **[Lenster](https://lenster.xyz)**<br />Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿<br />cc @yogicodes @lensterxyz <br /><br />
 **[Lenstube](https://lenstube.xyz)**<br />Lenstube is a decentralized video-sharing social media platform built with Lens protocol.<br />cc @sasicodes @lenstubexyz <br /><br />
 **[Orb](https://orb.ac)**<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br />cc @nileshrathoree @orbwagmi <br /><br />
