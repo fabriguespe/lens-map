@@ -100,19 +100,7 @@ Superfun,A social app for Meme artists to get rewarded for their super fun conte
 Beets,Building infrastructure to enable unique musical experiences that connect artist with their true fans,"violettagotwavs,wavwrld,karmawav",Application,true,undefined,Music 🎶
 ClubSpace,ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens,lucasemanuelss,Hackaton,true,ETHBogota2022,Music 🎶
 Ooh la la,Music & Podcast NFT player (feeds Lens content),"oohlala_xyz,changhwan24",Application,true,undefined,Music 🎶
-StemsDAO,"Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists",undefined,Application,true,undefined,Music 🎶
-BrandKit,Branding assets,0xLiquidFire,Resource,true,undefined,Resource 📖
-Contracts,Lens Protocol contracts,undefined,Resource,true,undefined,Resource 📖
-Lens Hotlink,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,undefined,Resource,true,undefined,Resource 📖
-Lens Map Ecosystem,"Here’s the list of the projects or applications which are using
-@LensProtocol
-#Lensprofile
-#lensprotocolecosystem",rekktguy,Resource,true,undefined,Resource 📖
-Lens useful link and resource,Lens useful link and resource,undefined,Resource,true,undefined,Resource 📖
-Lens Website,Lens Protocol Official Website,undefined,undefined,true,undefined,Resource 📖
-lens-map,Lens Map Notion Repo,undefined,Resource,true,undefined,Resource 📖
-Nader Video Tutorial,"Building a Social Media App with Lens Protocol, Next.js, and GraphQL.",undefined,Resource,true,undefined,Resource 📖
-OxJuancito,"A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.",undefined,Resource,true,undefined,Resource 📖
+StemsDAO,"Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists","haithamengad,StemsDAO",Application,true,undefined,Music 🎶
 Alps Finance,Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. ,alpsfinance,Application,true,undefined,Other
 AlwaysOnline,undefined,undefined,Application,false,undefined,Other
 AMHO Atelier,undefined,undefined,Application,false,undefined,Other
@@ -169,3 +157,15 @@ ToucanFrens,Show gratitude for social media content with CO2 retirement,undefine
 Whistleblower - Wikileaks,"Whistleblower allows anyone from all over the world to post data, ideas, thoughts, and documents, privately and securely forever using Lens Protocol",undefined,Hackaton,false,ETHBerlin2022,Other
 Zerion,Allows for transactions with lens handles,undefined,Partner,false,undefined,Other
 zkGraph,"StarkNet and Lens Protocol compatible smart contracts-based social graph, fully composable and user-owned",undefined,Application,false,undefined,Other
+BrandKit,Branding assets,0xLiquidFire,Resource,true,undefined,Resource 📖
+Contracts,Lens Protocol contracts,"donosonaumczuk,Zer0dot",Resource,true,undefined,Resource 📖
+Lens Hotlink,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,m1guelpf,Resource,true,undefined,Resource 📖
+Lens Map Ecosystem,"Here’s the list of the projects or applications which are using
+@LensProtocol
+#Lensprofile
+#lensprotocolecosystem",rekktguy,Resource,true,undefined,Resource 📖
+Lens useful link and resource,Lens useful link and resource,NelsonRodMar,Resource,true,undefined,Resource 📖
+Lens Website,Lens Protocol Official Website,0xethercake,undefined,true,undefined,Resource 📖
+lens-map,Lens Map Notion Repo,fabriguespe,Resource,true,undefined,Resource 📖
+Nader Video Tutorial,"Building a Social Media App with Lens Protocol, Next.js, and GraphQL.",dabit3,Resource,true,undefined,Resource 📖
+OxJuancito,"A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.",0xJuancito,Resource,true,undefined,Resource 📖
