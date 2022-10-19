@@ -2,7 +2,8 @@
 Web2 networks all read from their unique, centralized database. There is no portability. Your profile, friends, and content are locked to a specific network and owned by the network operator. This causes each network to fight a zero-sum game for your attention.
 <br><br> Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
 <br />
-<br />**[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc @0xethercake @LensProtocol <br /><br />
+<br />**[Fanstastic](https://fanstastic.app/)**<br />undefined<br />cc undefined<br /><br />
+**[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc @0xethercake @LensProtocol <br /><br />
 **[Lenster](https://lenster.xyz)**<br />Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿<br />cc @yogicodes @lensterxyz <br /><br />
 **[Lenstube](https://lenstube.xyz)**<br />Lenstube is a decentralized video-sharing social media platform built with Lens protocol.<br />cc @sasicodes @lenstubexyz <br /><br />
 **[Orb](https://orb.ac)**<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br />cc @nileshrathoree @orbwagmi <br /><br />
@@ -89,14 +90,14 @@ Throughout digital social networks people can share, connect, support, agree, de
 **[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br />cc @shugo_jpn @JoshLitchman <br /><br />
 **[Superfun](https://lens.superfun.social/)**<br />A social app for Meme artists to get rewarded for their super fun content.<br />cc @SuperFunSocial <br /><br />
 ## Music 🎶
-Music
+The Lens social graph has the power to revolutionize the music experience for both fans and artists. Fans will have new ways to discover music, find like-minded fans, and experience music together. Artists will have new ways to deepen their fan connection, and new options for commercializing their creations.
 <br />
 <br />**[Beets](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br />cc @violettagotwavs @wavwrld @karmawav <br /><br />
 **[ClubSpace](https://ethglobal.com/showcase/clubspace-cwzqx)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br />cc @lucasemanuelss <br /><br />
 **[Ooh la la](https://www.oohlala.xyz/)**<br />Music & Podcast NFT player (feeds Lens content)<br />cc @oohlala_xyz @changhwan24 <br /><br />
 **[StemsDAO](https://www.stemsdao.com)**<br />Stems encourages more music production, properly rewards music creators, and brings fans closer than ever to their favorite artists<br />cc undefined<br /><br />
 ## Resource 📖
-Resource
+Learn more about our protocol, web3social and our ecosystem the #Lensverse with curated high quality resources
 <br />
 <br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc @0xLiquidFire <br /><br />
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc undefined<br /><br />
@@ -111,7 +112,7 @@ Resource
 **[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc undefined<br /><br />
 **[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc undefined<br /><br />
 ## Other
-Other
+There are still many opportunities and verticals to explore in web3 social. We are still too early and it is not clear how many use cases will emerge out of web3 social. 
 <br />
 <br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc @alpsfinance <br /><br />
 **[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc @m1guelpf <br /><br />

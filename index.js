@@ -70,18 +70,8 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           let hackaton=row.properties.Hackaton?.select?.name
           let description=row.properties.Description?.rich_text[0]?.plain_text
           let cc=row.properties.cc?.rich_text[0]?.plain_text
-          
           csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
-      
           if(curated){
-            //goes to MD repo
-            /*if(category!=cate){
-              cate=category
-              md+='## '+cate+'\n';
-              md+=categories[cate]+'\n<br />\n<br />'
-              console.log(cate,categories[cate])
-              
-            }*/
             md+='**['+title+']('+url+')**'+'<br />';
             md+=(description)+'<br />';
             cc=cc?.split(',')
@@ -130,9 +120,9 @@ async function getTwitter(url){
     }catch(e){
       
     }
-  }
+}
 
-  async function  updateMeta(url){
+async function  updateMeta(url){
     let url_icon=row.icon
     let url_cover=row.cover
     if(!url_icon?.external?.url || !url_cover?.external?.url){    
