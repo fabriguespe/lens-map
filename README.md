@@ -89,6 +89,7 @@ Throughout digital social networks people can share, connect, support, agree, de
 **[LensDrop](https://lensdrop.netlify.app/)**<br />Reward your Lens Protocol followers and fans with airdrops and special prizes.<br />cc @tjelailah <br /><br />
 **[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br />cc @shugo_jpn @JoshLitchman <br /><br />
 **[Superfun](https://lens.superfun.social/)**<br />A social app for Meme artists to get rewarded for their super fun content.<br />cc @SuperFunSocial <br /><br />
+**[YUP](https://app.yup.io/)**<br />Web3 Social Network<br />cc @nir_III @yup_io <br /><br />
 ## Music 🎶
 The Lens social graph has the power to revolutionize the music experience for both fans and artists. Fans will have new ways to discover music, find like-minded fans, and experience music together. Artists will have new ways to deepen their fan connection, and new options for commercializing their creations.
 <br />
@@ -111,8 +112,10 @@ There are still many opportunities and verticals to explore in web3 social. We a
 ## Resource 📖
 Learn more about our protocol, web3social and our ecosystem the #Lensverse with curated high quality resources
 <br />
-<br />**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc @0xLiquidFire <br /><br />
+<br />**[Awesome Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc @0xJuancito <br /><br />
+**[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br />cc @0xLiquidFire <br /><br />
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc @donosonaumczuk @Zer0dot <br /><br />
+**[Inspiration for builders](https://www.notion.so/aave/Inspiration-for-Builders-1db7dbd3e7b14eaf9a97a341b1a3ff55)**<br />Ideas to build on Lens<br />cc undefined<br /><br />
 **[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc @m1guelpf <br /><br />
 **[Lens Map Ecosystem](https://twitter.com/rekktguy/status/1582288617229406209)**<br />Here’s the list of the projects or applications which are using
 @LensProtocol
@@ -121,5 +124,5 @@ Learn more about our protocol, web3social and our ecosystem the #Lensverse with 
 **[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br />cc @NelsonRodMar <br /><br />
 **[Lens Website](https://lens.xyz)**<br />Lens Protocol Official Website<br />cc @0xethercake <br /><br />
 **[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br />cc @fabriguespe <br /><br />
+**[Lensverse](https://www.notion.so/aave/Lensverse-a5926eab1d8148eda10053af9f4e28a0)**<br />Lens Application Ecosystem<br />cc undefined<br /><br />
 **[Nader Video Tutorial](https://www.youtube.com/watch?v=LcxOdWWL8xs)**<br />Building a Social Media App with Lens Protocol, Next.js, and GraphQL.<br />cc @dabit3 <br /><br />
-**[OxJuancito](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br />cc @0xJuancito <br /><br />
