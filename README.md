@@ -7,7 +7,7 @@ Web2 networks all read from their unique, centralized database. There is no port
 **[Lenstube](https://lenstube.xyz)**<br />Lenstube is a decentralized video-sharing social media platform built with Lens protocol.<br />cc @sasicodes @lenstubexyz <br /><br />
 **[Orb](https://orb.ac)**<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br />cc @nileshrathoree @orbwagmi <br /><br />
 **[Phaver](https://phaver.com)**<br />Help us curate interesting stuff online and offline and get rewarded.<br />cc @joonatanlintala @phaverapp <br /><br />
-**[re:meme](https://www.rememe.lol)**<br />On-chain meme generator, built on top of Lens Protocol<br />cc undefined<br /><br />
+**[re:meme](https://www.rememe.lol)**<br />On-chain meme generator, built on top of Lens Protocol<br />cc @0xNeghed <br /><br />
 ## Creator monetization 🤑
 Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.
 <br />
@@ -102,11 +102,11 @@ There are still many opportunities and verticals to explore in web3 social. We a
 <br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc @alpsfinance <br /><br />
 **[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc @m1guelpf <br /><br />
 **[Garden](https://garden.withlens.app)**<br />Links only your Lens followers can access<br />cc @m1guelpf <br /><br />
-**[Harfang](https://harfang.app)**<br />Postal NFT creator and marketplace<br />cc undefined<br /><br />
+**[Harfang](https://harfang.app)**<br />Postal NFT creator and marketplace<br />cc @0xharfang <br /><br />
 **[LensAI](https://thegallerydao.vercel.app/login)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc @thegallerydao <br /><br />
 **[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc @peduarte <br /><br />
 **[LensEncrypted Messaging](https://lens-encrypted-messaging.netlify.app/)**<br />A tool to encrypt and send message<br />cc @grgwgrgwgrgw <br /><br />
-**[Mad.Finance](https://madfinance.xyz/)**<br />undefined<br />cc undefined<br /><br />
+**[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br />cc @madfiprotocol <br /><br />
 **[Soclly](https://www.soclly.com)**<br />Shape your Web3 dreams into reality by interacting with Web3 Gurus<br />cc @socllyhq @nareshkatta99 <br /><br />
 ## Resource 📖
 Learn more about our protocol, web3social and our ecosystem the #Lensverse with curated high quality resources

@@ -11,7 +11,7 @@ Onboard,Instagram clone,undefined,Application,false,undefined,Social Media ❤�
 OpenQ VidQ'S,Bite-sized decentralized coding tutorial videos (that solve actual GitHub issues),undefined,Hackaton,false,ETHBerlin2022,Social Media ❤️‍🔥
 Orb,"Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.","nileshrathoree,orbwagmi",Application,true,undefined,Social Media ❤️‍🔥
 Phaver,Help us curate interesting stuff online and offline and get rewarded.,"joonatanlintala,phaverapp",Application,true,undefined,Social Media ❤️‍🔥
-re:meme,"On-chain meme generator, built on top of Lens Protocol",undefined,Application,true,undefined,Social Media ❤️‍🔥
+re:meme,"On-chain meme generator, built on top of Lens Protocol",0xNeghed,Application,true,undefined,Social Media ❤️‍🔥
 SiC,Tokenized and memetic content sharing and interests network/graph,undefined,Hackaton,false,ETHBerlin2022,Social Media ❤️‍🔥
 SoundIt,undefined,undefined,Application,false,undefined,Social Media ❤️‍🔥
 Starlens,"Plataforma creada sobre Lens protocol en donde los usuarios pueden dar y recibir reviews sobre infinitas temáticas. En base a eso se construye una reputación segura, confiable y descentralizada del perfil en la web3.",undefined,Hackaton,false,BearBuilders0922,Social Media ❤️‍🔥
@@ -119,7 +119,7 @@ Flourish,Flourish is a @LensProtocol interface that helps people meeting IRL exc
 Garden,Links only your Lens followers can access,m1guelpf,Application,true,undefined,Other
 Gliss,undefined,undefined,Application,false,undefined,Other
 Groumit,"Una plataforma que conecta creadores de contenido con marcas para hacer marketing de influencers. Permite realizar interacciones p2p mediante un smart contract, basándose en Lens protocol para automatizar procesos y permitir estrategias con mejor escalabilidad.",undefined,Hackaton,false,BearBuilders0922,Other
-Harfang,Postal NFT creator and marketplace,undefined,Application,true,undefined,Other
+Harfang,Postal NFT creator and marketplace,0xharfang,Application,true,undefined,Other
 Hashchat,undefined,undefined,Application,false,undefined,Other
 Hedwig,quantum resistant on chain key exchange algorithm,undefined,Hackaton,false,ETHBerlin2022,Other
 Heptagon,It is a decentralized music streaming service through NFT's and IPFS data,undefined,Hackaton,false,ETHMexico2022,Other
@@ -140,7 +140,7 @@ Lensgame,A decentralised game and in-game item marketplace built on Lensprotocol
 LensLibrary,"A scientific hub for share your ideas, write your opinion, own your content and be rewarded for your contribution",undefined,Hackaton,false,ETHMexico2022,Other
 Lensmo,"Send NFTs/tokens to any social account, no wallet required",undefined,Application,false,ETHOnline2022,Other
 Lenspub,Fast publishing on Lens with Lenspub's wallet activity analyser.,undefined,Hackaton,false,ETHOnline2022,Other
-Mad.Finance,undefined,undefined,Application,true,undefined,Other
+Mad.Finance,"Thge ad protocol for web3, paying content creators in real-time ",madfiprotocol,Application,true,undefined,Other
 MaisonDAO,undefined,undefined,Application,false,undefined,Other
 Memester,The NFT Meme Platform,undefined,Application,false,undefined,Other
 MetaLens,Explore exiting content in Lens Protocol Metaverse using MetaLens,undefined,Hackaton,false,LFGROW,Other
