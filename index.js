@@ -70,6 +70,8 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           let hackaton=row.properties.Hackaton?.select?.name
           let description=row.properties.Description?.rich_text[0]?.plain_text
           let cc=row.properties.cc?.rich_text[0]?.plain_text
+          let ctime=row.properties
+          console.log(row.properties)
           csv.push({title:title,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
           if(curated){
             md+='**['+title+']('+url+')**'+'<br />';
