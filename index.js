@@ -72,7 +72,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           let cc=row.properties.cc?.rich_text[0]?.plain_text
           let launch_date=row.properties.Launch?.date.start
           csv.push({title:title,launch_date:launch_date,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
-          if(curated){
+          /*if(curated){
             md+='**['+title+']('+url+')**'+'<br />';
             md+=(description)+'<br />';
             cc=cc?.split(',')
@@ -81,7 +81,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             md+=(cc?cc2:'cc undefined')
             
             md+=('<br /><br />\n')
-          }
+          }*/
           //updateMeta(url)
           //getTwitter()
       }
