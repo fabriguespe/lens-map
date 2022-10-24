@@ -80,7 +80,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             //for(let i in cc) cc2+='@'+cc[i]+' '
             //md+=(cc?cc2:'cc undefined')
             
-            md+=('<br /><br />\n')
+            md+=('<br />\n')
           }
           //updateMeta(url)
           //getTwitter()
