@@ -76,9 +76,9 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             md+='**['+title+']('+url+')**'+'<br />';
             md+=(description)+'<br />';
             cc=cc?.split(',')
-            //let cc2='cc '
-            //for(let i in cc) cc2+='@'+cc[i]+' '
-            //md+=(cc?cc2:'cc undefined')
+            let cc2='cc '
+            for(let i in cc) cc2+='@'+cc[i]+' '
+            md+=(cc?cc2:'cc undefined')
             
             md+=('<br />\n')
           }
