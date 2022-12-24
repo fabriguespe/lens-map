@@ -70,7 +70,7 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
           let hackaton=row.properties.Hackaton?.select?.name
           let description=row.properties.Description?.rich_text[0]?.plain_text
           let cc=row.properties.cc?.rich_text[0]?.plain_text
-          let launch_date=row.properties.Launch?.date.start
+          let launch_date=row.properties.Launch?.date?.start
           csv.push({title:title,launch_date:launch_date,description:description,cc:cc,type:type,curated:curated,hackaton:hackaton,category:category})
           if(curated){
             md+='**['+title+']('+url+')**'+'<br />';
@@ -81,8 +81,9 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             md+=(cc?cc2:'cc undefined')
             
             md+=('<br />\n')
+
+            //updateMeta(notion,row)
           }
-          //updateMeta(url)
           //getTwitter()
       }
     }
@@ -123,7 +124,9 @@ async function getTwitter(url){
     }
 }
 
-async function  updateMeta(url){
+async function  updateMeta(notion,row){
+    console.log(row)
+    let url=row.properties.URL?.url
     let url_icon=row.icon
     let url_cover=row.cover
     if(!url_icon?.external?.url || !url_cover?.external?.url){    
