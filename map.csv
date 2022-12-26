@@ -21,30 +21,35 @@ SiC,2022-10-17T02:39:00.000+01:00,Tokenized and memetic content sharing and inte
 SoundIt,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Social Media ❤️‍🔥
 Starlens,2022-10-17T02:39:00.000+01:00,"Plataforma creada sobre Lens protocol en donde los usuarios pueden dar y recibir reviews sobre infinitas temáticas. En base a eso se construye una reputación segura, confiable y descentralizada del perfil en la web3.",undefined,Hackaton,false,BearBuilders0922,Social Media ❤️‍🔥
 Superclub,2022-10-17T02:39:00.000+01:00,"Join Web3 communities to learn about the latest news, updates, events, projects, brands, and applications.",undefined,Application,false,undefined,Social Media ❤️‍🔥
-Superfun,2022-10-17T02:39:00.000+01:00,A social app for Meme artists to get rewarded for their super fun content.,undefined,Application,true,undefined,Social Media ❤️‍🔥
+Superfun,2022-10-17T02:39:00.000+01:00,A social app for Meme artists to get rewarded for their super fun content.,undefined,Application,false,undefined,Social Media ❤️‍🔥
 theDial,undefined,A social canvas where prompts become craft,undefined,Application,true,undefined,Social Media ❤️‍🔥
 YUP,2022-10-19T16:30:00.000+01:00,Web3 Social Network,undefined,Application,true,undefined,Social Media ❤️‍🔥
 Zilly,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Social Media ❤️‍🔥
 LensPort ,2022-10-17T02:39:00.000+01:00,"Discover, collect, and sell posts. Invest in creators you support.",undefined,Application,true,undefined,Curation 🧹
 Lensta,2022-10-17T02:39:00.000+01:00,Feed of the most recent images posted on Lens Protocol ,undefined,Application,true,undefined,Curation 🧹
 LensTags,2022-10-17T02:39:00.000+01:00,"LensTags is a Web3 Social Graph focused on collective-knowledge, content discovery and personal organization using Tags.",undefined,Hackaton,false,BearBuilders0922,Curation 🧹
-Coconnect,2022-10-17T02:39:00.000+01:00,"We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step.",undefined,Hackaton,false,ETHBogota2022,Community Tool 👫
-Crypster,undefined,"Cryptster is a decentralized, and permissionless crowdfunding app built with Lens Protocol 🌿.",undefined,Hackaton,false,ETHIndia2022,Community Tool 👫
-Eden Protocol,2022-10-17T02:39:00.000+01:00,Web3 talent match protocol by developer dao,undefined,Application,true,undefined,Community Tool 👫
-EOLAS,2022-10-17T02:39:00.000+01:00,"We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step & a python lib.",undefined,Hackaton,false,OxfordHack2022,Community Tool 👫
-Focalize,2022-10-17T02:39:00.000+01:00,Browser extension that allows you to quickly share to Lens Protocol.,undefined,Hackaton,false,ETHOnline2022,Community Tool 👫
-Freelansers,2022-10-17T02:39:00.000+01:00,Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.,undefined,Hackaton,false,ETHBogota2022,Community Tool 👫
-Gigspace,2022-10-27T16:20:00.000+01:00,Web3 professional network,undefined,Hackaton,false,EasyA2022,Community Tool 👫
-guild.xyz,undefined,Managed Lens discord roles,undefined,Integration,true,undefined,Community Tool 👫
-Handle Claim,2022-10-17T02:39:00.000+01:00,Claim your handle,undefined,Resource,true,undefined,Community Tool 👫
-Huddle01,2022-10-17T02:39:00.000+01:00,"One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.",undefined,Application,true,undefined,Community Tool 👫
-Lens Telegram Bot,2022-10-17T02:39:00.000+01:00,A Lens protocol bot notifications for Telegram,undefined,Bot,true,undefined,Community Tool 👫
-LensAlert,2022-10-17T02:39:00.000+01:00,Lens notifications in Telegram,undefined,Bot,true,undefined,Community Tool 👫
-LensDrop,2022-10-17T02:39:00.000+01:00,Reward your Lens Protocol followers and fans with airdrops and special prizes.,undefined,Application,true,undefined,Community Tool 👫
-Lensted,undefined,A lens protocol indexer with other features. specifically made to make search engines find lens content. login not yet available coming a bit later.,undefined,Application,false,undefined,Community Tool 👫
-Superstick,2022-10-17T02:39:00.000+01:00,"We are bringing Crypto to the masses, by allowing creators to turn their content into crypto",undefined,Hackaton,false,ETHMexico2022,Community Tool 👫
-Talently,2022-10-17T02:39:00.000+01:00,Showcase your web3 profile,undefined,Application,true,undefined,Community Tool 👫
-TeaParty,2022-10-17T02:39:00.000+01:00,"TeaParty empower creators to reach a larger audience and boost discoverability, while rewarding people for engaging with meaningful content",undefined,Application,false,undefined,Community Tool 👫
+Chainjet,2022-10-28T09:04:00.000+01:00,"Build web3automation,easily.",undefined,Application,true,undefined,Tools 🛠
+Coconnect,2022-10-17T02:39:00.000+01:00,"We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step.",undefined,Hackaton,false,ETHBogota2022,Tools 🛠
+Crypster,undefined,"Cryptster is a decentralized, and permissionless crowdfunding app built with Lens Protocol 🌿.",undefined,Hackaton,false,ETHIndia2022,Tools 🛠
+Embed,2022-10-17T02:39:00.000+01:00,Easily embed Lens post anywhere,undefined,Application,true,undefined,Tools 🛠
+EOLAS,2022-10-17T02:39:00.000+01:00,"We help brands save time when launching marketing campaigns with content creators. Thanks to Lens, they can search for specific influencers and contact them quickly in one step & a python lib.",undefined,Hackaton,false,OxfordHack2022,Tools 🛠
+Focalize,2022-10-17T02:39:00.000+01:00,Browser extension that allows you to quickly share to Lens Protocol.,undefined,Hackaton,false,ETHOnline2022,Tools 🛠
+Freelansers,2022-10-17T02:39:00.000+01:00,Freelance in Web3 done the safest way. Find work opportunities through the Lens social media platform. Safe and secure for both parties.,undefined,Hackaton,false,ETHBogota2022,Tools 🛠
+Garden,2022-10-17T02:39:00.000+01:00,Links only your Lens followers can access,undefined,Application,true,undefined,Tools 🛠
+Gigspace,2022-10-27T16:20:00.000+01:00,Web3 professional network,undefined,Hackaton,false,EasyA2022,Tools 🛠
+Greenhouse,2022-10-17T02:39:00.000+01:00,Grow and spread your web3 roots,undefined,Application,true,undefined,Tools 🛠
+InLens,2022-10-17T02:39:00.000+01:00,Find your friends from Twitter in Lens Protocol. Create shareable lists.,undefined,Application,true,undefined,Tools 🛠
+Lens Lists,2022-10-17T02:39:00.000+01:00,Find your friends from Twitter in Lens Protocol. Create shareable lists.,undefined,Application,true,undefined,Tools 🛠
+Lens Share,2022-10-17T02:39:00.000+01:00,Replicate your Tweets into Lens,undefined,Application,true,undefined,Tools 🛠
+Lens Telegram Bot,2022-10-17T02:39:00.000+01:00,A Lens protocol bot notifications for Telegram,undefined,Bot,true,undefined,Tools 🛠
+LensAlert,2022-10-17T02:39:00.000+01:00,Lens notifications in Telegram,undefined,Bot,true,undefined,Tools 🛠
+Lenscast,2022-10-17T02:39:00.000+01:00,Web3 Social Raycast Extension built with Lens Protocol,undefined,Application,true,undefined,Tools 🛠
+LensDrop,2022-10-17T02:39:00.000+01:00,Reward your Lens Protocol followers and fans with airdrops and special prizes.,undefined,Application,true,undefined,Tools 🛠
+Lensted,undefined,A lens protocol indexer with other features. specifically made to make search engines find lens content. login not yet available coming a bit later.,undefined,Application,false,undefined,Tools 🛠
+Postter,2022-10-28T09:04:00.000+01:00,Schedule posts on Lens,undefined,Application,true,undefined,Tools 🛠
+Reflect,2022-10-17T02:39:00.000+01:00,Reflect automatically cross-posts everything you share on Lens to Twitter. ,undefined,Application,true,undefined,Tools 🛠
+Superstick,2022-10-17T02:39:00.000+01:00,"We are bringing Crypto to the masses, by allowing creators to turn their content into crypto",undefined,Hackaton,false,ETHMexico2022,Tools 🛠
+TeaParty,2022-10-17T02:39:00.000+01:00,"TeaParty empower creators to reach a larger audience and boost discoverability, while rewarding people for engaging with meaningful content",undefined,Application,false,undefined,Tools 🛠
 Bello,2022-10-17T02:39:00.000+01:00,Creator's insights for Lens Protocol,undefined,Integration,true,undefined,Analytics 📊
 Dune & Lens Dashboard,2022-10-17T02:39:00.000+01:00,"Dashboard uniting Lens data from the API with Dune data, expanding upon existing visualizations available on Dune with Machine Learning for interesting results",undefined,Hackaton,false,ETHBerlin2022,Analytics 📊
 Ecosystem Analysis,undefined,Lens Protocol Ecosystem Analysis,undefined,Dashboard,true,undefined,Analytics 📊
@@ -60,64 +65,56 @@ Lenster Dune by gm365,2022-10-17T02:39:00.000+01:00,Lens and Lenster dashboard i
 Merlin,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Analytics 📊
 Stats Lens,2022-10-17T02:39:00.000+01:00,"Official lens stats dashboard about posts, collects, accounts, etc.",undefined,Application,true,undefined,Analytics 📊
 Token Terminal,2022-10-17T02:39:00.000+01:00,Lens protocol charts,undefined,Integration,true,undefined,Analytics 📊
-Greenhouse,2022-10-17T02:39:00.000+01:00,Grow and spread your web3 roots,undefined,Application,true,undefined,Bridges 🌉
-InLens,2022-10-17T02:39:00.000+01:00,Find your friends from Twitter in Lens Protocol. Create shareable lists.,undefined,Application,true,undefined,Bridges 🌉
-Lens Lists,2022-10-17T02:39:00.000+01:00,Find your friends from Twitter in Lens Protocol. Create shareable lists.,undefined,Application,true,undefined,Bridges 🌉
-Lens Share,2022-10-17T02:39:00.000+01:00,Replicate your Tweets into Lens,undefined,Application,true,undefined,Bridges 🌉
-Reflect,2022-10-17T02:39:00.000+01:00,Reflect automatically cross-posts everything you share on Lens to Twitter. ,undefined,Application,true,undefined,Bridges 🌉
-Aave Fee CollectModule,2022-10-17T02:39:00.000+01:00,Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.,undefined,Module,true,undefined,Developer Tooling 👨🏼‍💻
-API Examples,2022-10-17T02:39:00.000+01:00,API Examples Repo,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Arweave,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developer Tooling 👨🏼‍💻
-Auction CollectModule,2022-10-17T02:39:00.000+01:00,"This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.",undefined,Module,true,undefined,Developer Tooling 👨🏼‍💻
-Authentication Quickstart,2022-10-17T02:39:00.000+01:00,NextJs starter kit,undefined,Resource,true,undefined,Developer Tooling 👨🏼‍💻
-Build Web3 Experiences with Lens Protocol,undefined,Build Web3 Experiences with Lens Protocol,undefined,Resource,false,undefined,Developer Tooling 👨🏼‍💻
-DecentSDK,2022-10-17T02:39:00.000+01:00,Protocol SDK that allows minting and claiming NFT’s cross-chain. Integrated with Lens.,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
+Aave Fee CollectModule,2022-10-17T02:39:00.000+01:00,Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.,undefined,Module,true,undefined,Developers 👨🏼‍💻
+API Examples,2022-10-17T02:39:00.000+01:00,API Examples Repo,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Arweave,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developers 👨🏼‍💻
+Auction CollectModule,2022-10-17T02:39:00.000+01:00,"This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.",undefined,Module,true,undefined,Developers 👨🏼‍💻
+Build Web3 Experiences with Lens Protocol,undefined,Build Web3 Experiences with Lens Protocol,undefined,Resource,false,undefined,Developers 👨🏼‍💻
+DecentSDK,2022-10-17T02:39:00.000+01:00,Protocol SDK that allows minting and claiming NFT’s cross-chain. Integrated with Lens.,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Degrees Of Seperation Module,2022-10-17T02:39:00.000+01:00,"This reference module allows to set a degree of separation n, and then allows to comment/mirror only to profiles that are at most at n
- degrees of separation from the author of the root publication.",undefined,Module,true,undefined,Developer Tooling 👨🏼‍💻
-Developer Quickstart,2022-10-17T02:39:00.000+01:00,NextJs starter kit,undefined,Resource,true,undefined,Developer Tooling 👨🏼‍💻
-Docs,2022-10-17T02:39:00.000+01:00,Official Lens API documentation,undefined,Resource,true,undefined,Developer Tooling 👨🏼‍💻
-IPFS,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developer Tooling 👨🏼‍💻
-Lens Collect Auctions,2022-10-17T02:39:00.000+01:00,Run Dutch (decreasing) & English (increasing bids) auctions for collecting Lens posts,undefined,Hackaton,false,LFGROW,Developer Tooling 👨🏼‍💻
-Lens Kit,2022-10-17T02:39:00.000+01:00,Community build Lens Protocol UI React KIT,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Lens Subgraph with EPNS,2022-10-17T02:39:00.000+01:00,Basic subgraph with EPNS on Lens protocol. Handle emitted events and read IPFS data to store it on graph level.,undefined,Hackaton,false,ETHNEWYORK 2022,Developer Tooling 👨🏼‍💻
-lens-use,undefined,React Hooks for Lens Protocol,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Lens.js,2022-10-17T02:39:00.000+01:00,Community made JavaScript SDK for Lens Protocol,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-LensRaffle,2022-10-17T02:39:00.000+01:00,Giveaway module for the lens protocol. Easily give some matic to a truly random follower of a profile. Use it for any dapp built on lens.,undefined,Hackaton,false,LFGROW,Developer Tooling 👨🏼‍💻
-LensSDK,2022-10-17T02:39:00.000+01:00,The official SDK to interact with the Lens Protocol,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Lensterdam,2022-10-17T02:39:00.000+01:00,"Engaging push notifications for The Lens Protocol with EPNS, TheGraph and POAP",undefined,Hackaton,false,ETHAMSTERDAM,Developer Tooling 👨🏼‍💻
-Lenstify,2022-10-17T02:39:00.000+01:00,Lenstify is a front-end for Lens with a great interface and many features.,undefined,Hackaton,false,LFGROW,Developer Tooling 👨🏼‍💻
-lensurance,2022-10-17T02:39:00.000+01:00,collect module for lens protocol which only allows a single collect per person.,undefined,Hackaton,false,ETHNEWYORK 2022,Developer Tooling 👨🏼‍💻
-Libertapp,2022-10-17T02:39:00.000+01:00,Censorship-resistant DApp Client,undefined,Hackaton,false,ETHBerlin2022,Developer Tooling 👨🏼‍💻
+ degrees of separation from the author of the root publication.",undefined,Module,true,undefined,Developers 👨🏼‍💻
+IPFS,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developers 👨🏼‍💻
+Lens Collect Auctions,2022-10-17T02:39:00.000+01:00,Run Dutch (decreasing) & English (increasing bids) auctions for collecting Lens posts,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
+Lens Kit,2022-10-17T02:39:00.000+01:00,Community build Lens Protocol UI React KIT,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Lens Subgraph with EPNS,2022-10-17T02:39:00.000+01:00,Basic subgraph with EPNS on Lens protocol. Handle emitted events and read IPFS data to store it on graph level.,undefined,Hackaton,false,ETHNEWYORK 2022,Developers 👨🏼‍💻
+lens-use,undefined,React Hooks for Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Lens.js,2022-10-17T02:39:00.000+01:00,Community made JavaScript SDK for Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+LensRaffle,2022-10-17T02:39:00.000+01:00,Giveaway module for the lens protocol. Easily give some matic to a truly random follower of a profile. Use it for any dapp built on lens.,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
+LensSDK,2022-10-17T02:39:00.000+01:00,The official SDK to interact with the Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Lensterdam,2022-10-17T02:39:00.000+01:00,"Engaging push notifications for The Lens Protocol with EPNS, TheGraph and POAP",undefined,Hackaton,false,ETHAMSTERDAM,Developers 👨🏼‍💻
+Lenstify,2022-10-17T02:39:00.000+01:00,Lenstify is a front-end for Lens with a great interface and many features.,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
+lensurance,2022-10-17T02:39:00.000+01:00,collect module for lens protocol which only allows a single collect per person.,undefined,Hackaton,false,ETHNEWYORK 2022,Developers 👨🏼‍💻
+Libertapp,2022-10-17T02:39:00.000+01:00,Censorship-resistant DApp Client,undefined,Hackaton,false,ETHBerlin2022,Developers 👨🏼‍💻
 ListsAPI,2022-10-17T02:39:00.000+01:00,"Draft specification for managing lists on Lens Protocol. Beware of possible breaking changes.
-Authorize",undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-LitProtocol,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developer Tooling 👨🏼‍💻
-Monemetrics,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Developer Tooling 👨🏼‍💻
-Overlens,2022-10-17T02:39:00.000+01:00,Personal lens dispatcher with relay and allow list off-chain,undefined,Hackaton,false,LFGROW,Developer Tooling 👨🏼‍💻
+Authorize",undefined,Library,true,undefined,Developers 👨🏼‍💻
+LitProtocol,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developers 👨🏼‍💻
+Monemetrics,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Developers 👨🏼‍💻
+Overlens,2022-10-17T02:39:00.000+01:00,Personal lens dispatcher with relay and allow list off-chain,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
 Poll Module,undefined,"Simple Lens Protocol module to create polls. At the moment the module is completely experimental in order to test the feasibility.
 
-Resources",undefined,Module,false,undefined,Developer Tooling 👨🏼‍💻
-React Native Lens UI Kit,2022-10-17T02:39:00.000+01:00,A React Native UI kit for Lens Protocol. Get started building with as little as 2 lines of code. Mix and match components to supercharge your mobile development workflow.,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Scaffold Lens,2022-10-17T22:22:00.000+01:00,Scaffold ETH starter kit for Lens Protocol,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Sepana,2022-10-17T02:39:00.000+01:00,Search layer for Lens posts,undefined,Hackaton,true,LFGROW,Developer Tooling 👨🏼‍💻
-Share on Lens,2022-10-17T02:39:00.000+01:00,"A customizable, React button component for sharing to ",undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-Subgraph,2022-10-17T02:39:00.000+01:00,The Graph Subgraph for Lens Protocols,undefined,Library,false,undefined,Developer Tooling 👨🏼‍💻
-Thirdweb Starter Kit,undefined,Build a simple application using thirdweb and Lens!,undefined,Resource,false,undefined,Developer Tooling 👨🏼‍💻
-Token Gated Post,undefined,undefined,undefined,Library,false,undefined,Developer Tooling 👨🏼‍💻
-Token Gated ReferenceModule,2022-10-17T02:39:00.000+01:00,A reference module that validates that the user who tries to reference has a required minimum balance of ERC20/ERC721 token.,undefined,Module,true,undefined,Developer Tooling 👨🏼‍💻
-Token List,2022-10-17T02:39:00.000+01:00,Whitelisted tokens for Modules,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-UpdatableOwnable Fee CollectModule,2022-10-17T02:39:00.000+01:00,"A fee collect module that, for each publication that uses it, mints an ERC-721 ownership-NFT to its author. Whoever owns the ownership-NFT has the rights to update the parameters required to do a successful collect operation over its underlying publication.",undefined,Module,true,undefined,Developer Tooling 👨🏼‍💻
-Use lens,2022-10-21T17:07:00.000+01:00,React Hooks for Lens Protocol,undefined,Library,true,undefined,Developer Tooling 👨🏼‍💻
-World ID Lens,2022-10-17T02:39:00.000+01:00,undefined,undefined,Library,false,undefined,Developer Tooling 👨🏼‍💻
-XMTP,2022-10-17T02:39:00.000+01:00,Chat protocol,undefined,Partner,true,undefined,Developer Tooling 👨🏼‍💻
+Resources",undefined,Module,false,undefined,Developers 👨🏼‍💻
+React Native Lens UI Kit,2022-10-17T02:39:00.000+01:00,A React Native UI kit for Lens Protocol. Get started building with as little as 2 lines of code. Mix and match components to supercharge your mobile development workflow.,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Scaffold Lens,2022-10-17T22:22:00.000+01:00,Scaffold ETH starter kit for Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+Sepana,2022-10-17T02:39:00.000+01:00,Search layer for Lens posts,undefined,Hackaton,true,LFGROW,Developers 👨🏼‍💻
+Share on Lens,2022-10-17T02:39:00.000+01:00,"A customizable, React button component for sharing to ",undefined,Library,true,undefined,Developers 👨🏼‍💻
+Subgraph,2022-10-17T02:39:00.000+01:00,The Graph Subgraph for Lens Protocols,undefined,Library,false,undefined,Developers 👨🏼‍💻
+Thirdweb Starter Kit,undefined,Build a simple application using thirdweb and Lens!,undefined,Resource,false,undefined,Developers 👨🏼‍💻
+Token Gated Post,undefined,undefined,undefined,Library,false,undefined,Developers 👨🏼‍💻
+Token Gated ReferenceModule,2022-10-17T02:39:00.000+01:00,A reference module that validates that the user who tries to reference has a required minimum balance of ERC20/ERC721 token.,undefined,Module,true,undefined,Developers 👨🏼‍💻
+Token List,2022-10-17T02:39:00.000+01:00,Whitelisted tokens for Modules,undefined,Library,true,undefined,Developers 👨🏼‍💻
+UpdatableOwnable Fee CollectModule,2022-10-17T02:39:00.000+01:00,"A fee collect module that, for each publication that uses it, mints an ERC-721 ownership-NFT to its author. Whoever owns the ownership-NFT has the rights to update the parameters required to do a successful collect operation over its underlying publication.",undefined,Module,true,undefined,Developers 👨🏼‍💻
+Use lens,2022-10-21T17:07:00.000+01:00,React Hooks for Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+WhoIsInLensAPI,2022-10-17T02:39:00.000+01:00,Find your friends from Twitter in Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+World ID Lens,2022-10-17T02:39:00.000+01:00,undefined,undefined,Library,false,undefined,Developers 👨🏼‍💻
+XMTP,2022-10-17T02:39:00.000+01:00,Chat protocol,undefined,Partner,true,undefined,Developers 👨🏼‍💻
 Alchemy,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
-Cultivator,2022-10-17T02:39:00.000+01:00,Visual Explorer of the Lens Protocol Social Graph,undefined,Application,true,undefined,Identity 🎭
+Eden Protocol,2022-10-17T02:39:00.000+01:00,Web3 talent match protocol by developer dao,undefined,Application,true,undefined,Identity 🎭
 ENS,2022-10-17T02:39:00.000+01:00,Ethereum domain name system,undefined,Partner,true,undefined,Identity 🎭
 Gelato,undefined,undefined,undefined,Partner,true,undefined,Identity 🎭
 Lens Human,2022-10-17T02:39:00.000+01:00,Simple curated page for your lens profiles.,undefined,Application,true,undefined,Identity 🎭
 lens-profile,2022-10-17T02:39:00.000+01:00,Take ownership of You with a Web3 Decentralized Identity on Lens Profile,undefined,Hackaton,false,LFGROW,Identity 🎭
 Lensfrens,2022-10-17T02:39:00.000+01:00,Simple curated page for your lens profiles.,undefined,Application,true,undefined,Identity 🎭
 Livepeer,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
-MashMesh,2022-10-17T02:39:00.000+01:00,"Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.",undefined,Application,true,ETHBogota2022,Identity 🎭
 MyDome,2022-10-17T02:39:00.000+01:00,Your web3 identity In one link.,undefined,Application,true,undefined,Identity 🎭
 Nimi,2022-10-17T02:39:00.000+01:00,Your web3 profile page.,undefined,Application,true,undefined,Identity 🎭
 POAP,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
@@ -126,6 +123,7 @@ Polygon,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined
 Push,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
 Sismo,2022-10-17T02:39:00.000+01:00,The key primitive for web3 identities,undefined,Application,true,undefined,Identity 🎭
 Sybil.org,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
+Talently,2022-10-17T02:39:00.000+01:00,Showcase your web3 profile,undefined,Application,true,undefined,Identity 🎭
 Toucan,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
 Verify Me!,2022-10-17T02:39:00.000+01:00,VerifyMe! democratizes the verification check mark on social media via POAP’s on Lens,undefined,Hackaton,false,ETHBogota2022,Identity 🎭
 WorldCoin,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Identity 🎭
@@ -142,8 +140,10 @@ Ticklens,undefined,An awesome JavaScript SDK to create your ticket platform over
 Web3Event,undefined,"Create, distribute and monitor tickets for events with Web3Event's Ticketing Platform",undefined,Application,true,undefined,Events 🎫
 Welook,2022-10-17T02:39:00.000+01:00,"Create your own POAPs, and share them with the world. Discover new wallets and POAPs.",undefined,Application,true,undefined,Events 🎫
 CheckyBoty,2022-10-17T02:39:00.000+01:00,"Leveraging LENS functionality to mint user interaction and device points , a social medium can decide to flag a user as bot and not allow access to its resources",undefined,Hackaton,false,OxfordHack2022,Algorithms 🧮
+Cultivator,2022-10-17T02:39:00.000+01:00,Visual Explorer of the Lens Protocol Social Graph,undefined,Application,true,undefined,Algorithms 🧮
 Lenseye,2022-10-17T02:39:00.000+01:00,Using GNNs to do link prediction on the lens social graph.,undefined,Hackaton,false,OxfordHack2022,Algorithms 🧮
 LensScore,2022-10-17T02:39:00.000+01:00,LensScore is a protocol to calculate users' score based on metrics from Lens profiles and provide it to all EVM-compatible chains using RedStone Oracle.,undefined,Hackaton,false,undefined,Algorithms 🧮
+MashMesh,2022-10-17T02:39:00.000+01:00,"Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.",undefined,Application,true,ETHBogota2022,Algorithms 🧮
 Meetvers,2022-10-17T02:39:00.000+01:00,Find lens friends with similar Web3 footprint,undefined,Application,true,undefined,Algorithms 🧮
 RAP - Reputation Attendance,2022-10-17T02:39:00.000+01:00,reputation-based entry for crypto events,undefined,Hackaton,false,ETHBerlin2022,Algorithms 🧮
 DAOscourse,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,DAO Tools 🗳
@@ -154,7 +154,7 @@ Lens DAOscourse,2022-10-17T02:39:00.000+01:00,We have built a DAO governance pla
 LensDAO,2022-10-17T02:39:00.000+01:00,Lens DAO is a smart contract for building DAOs whose governance token is a FollowNFT from Lens Protocol,undefined,Hackaton,false,DAOHacks2022,DAO Tools 🗳
 LensParty,undefined,"LensParty, community profiles now on Lens Protocol!",undefined,Hackaton,false,ETHIndia2022,DAO Tools 🗳
 Snapshot,2022-10-17T02:39:00.000+01:00,Voting polls,undefined,Partner,true,undefined,DAO Tools 🗳
-Alps Finance,2022-10-17T02:39:00.000+01:00,Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. ,undefined,Application,true,undefined,Other
+Alps Finance,2022-10-17T02:39:00.000+01:00,Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. ,undefined,Application,false,undefined,Other
 AlwaysOnline,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 AMHO Atelier,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 APPrende,2022-10-17T02:39:00.000+01:00,APPrende is a learn to earn platform that empowers individuals to begin their blockchain journey.,undefined,Application,false,undefined,Other
@@ -163,20 +163,19 @@ ArtofficialIntelligence,2022-10-17T02:39:00.000+01:00,Text2Image NFT generator w
 Ascend,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 Bloglens,2022-10-17T02:39:00.000+01:00,"Bloglens, a Blogging Platform where creators own what they write and can monetise their writing.",undefined,Hackaton,false,HACKFS 2022,Other
 Bookie Bookie,2022-08-21T02:39:00.000+01:00,An NFT marketplace powered by AI serving authors and readers.,undefined,Hackaton,false,ETHMexico2022,Other
-Chainjet,2022-10-28T09:04:00.000+01:00,"Build web3automation,easily.",undefined,Application,true,undefined,Other
 Clipto,2022-10-17T02:39:00.000+01:00,Personalized videos from your favorite Creators,undefined,Application,false,undefined,Other
 Defi Farms,2022-10-27T16:20:00.000+01:00,Gamified staking game throught Lens,undefined,Hackaton,false,EasyA2022,Other
-Dispatch ,2022-10-17T02:39:00.000+01:00,On-chain messaging and analytics for web3 projects.,undefined,Application,true,undefined,Other
-Embed,2022-10-17T02:39:00.000+01:00,Easily embed Lens post anywhere,undefined,Application,true,undefined,Other
+Dispatch ,2022-10-17T02:39:00.000+01:00,On-chain messaging and analytics for web3 projects.,undefined,Application,false,undefined,Other
 Flourish,2022-10-17T02:39:00.000+01:00,Flourish is a @LensProtocol interface that helps people meeting IRL exchange their Lens profiles effortlessly.,undefined,Hackaton,false,ETHNEWYORK 2022,Other
-Garden,2022-10-17T02:39:00.000+01:00,Links only your Lens followers can access,undefined,Application,true,undefined,Other
 Gliss,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 Groumit,2022-10-17T02:39:00.000+01:00,"Una plataforma que conecta creadores de contenido con marcas para hacer marketing de influencers. Permite realizar interacciones p2p mediante un smart contract, basándose en Lens protocol para automatizar procesos y permitir estrategias con mejor escalabilidad.",undefined,Hackaton,false,BearBuilders0922,Other
-Harfang,2022-10-17T02:39:00.000+01:00,Postal NFT creator and marketplace,undefined,Application,true,undefined,Other
-Hashchat,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
+guild.xyz,undefined,Managed Lens discord roles,undefined,Integration,true,undefined,Other
+Harfang,2022-10-17T02:39:00.000+01:00,Postal NFT creator and marketplace,undefined,Application,false,undefined,Other
+Hashchat,2022-10-17T02:39:00.000+01:00,We provide end-to-end encryption to keep your messages safe. You deserve to be in control of your data.,undefined,Application,true,undefined,Other
 Hedwig,2022-10-17T02:39:00.000+01:00,quantum resistant on chain key exchange algorithm,undefined,Hackaton,false,ETHBerlin2022,Other
 Heptagon,2022-08-21T02:39:00.000+01:00,It is a decentralized music streaming service through NFT's and IPFS data,undefined,Hackaton,false,ETHMexico2022,Other
 Heystacks,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
+Huddle01,2022-10-17T02:39:00.000+01:00,"One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.",undefined,Application,true,undefined,Other
 Infinity Keys ,2022-10-17T02:39:00.000+01:00,Infinity Keys is a no-code creator tools platform for brands and fans to build engaging metaverse treasure hunt experiences.,undefined,Application,true,undefined,Other
 Interface Social,2022-10-17T02:39:00.000+01:00,Social mobile app with human readable web3 feed.,undefined,Application,true,undefined,Other
 Kontour,2022-08-21T02:39:00.000+01:00,undefined,undefined,Hackaton,false,DAOHacks2022,Other
@@ -188,8 +187,7 @@ lens-it,2022-10-17T02:39:00.000+01:00,App that lets you make private publication
 Lensblog,2022-10-17T02:39:00.000+01:00,Mind Tales is a Blogging platform build on top of the Lens protocol. We used GraphQl API provided by Lens Protcol to build Mind Tales.,undefined,Hackaton,false,HACKFS 2022,Other
 LensBook,2022-10-17T02:39:00.000+01:00,"Book club in a book as NFTs powered by Lens, Lit, and Polygon 📚 ⛓",undefined,Hackaton,false,LFGROW,Other
 lenscan,2022-10-17T02:39:00.000+01:00,An etherscan for lens & a LIT DAO toolkit. The toolkit allows encrypted data sharing between DApp and DAO,undefined,Hackaton,false,LFGROW,Other
-Lenscast,2022-10-17T02:39:00.000+01:00,Web3 Social Raycast Extension built with Lens Protocol,undefined,Application,true,undefined,Other
-LensEncrypted Messaging,2022-10-17T02:39:00.000+01:00,A tool to encrypt and send message,undefined,Bot,true,undefined,Other
+LensEncrypted Messaging,2022-10-17T02:39:00.000+01:00,A tool to encrypt and send message,undefined,Bot,false,undefined,Other
 Lensgame,2022-10-17T02:39:00.000+01:00,A decentralised game and in-game item marketplace built on Lensprotocol.,undefined,Hackaton,false,HACKFS 2022,Other
 LensLibrary,2022-08-21T02:39:00.000+01:00,"A scientific hub for share your ideas, write your opinion, own your content and be rewarded for your contribution",undefined,Hackaton,false,ETHMexico2022,Other
 Lensmo,2022-10-17T02:39:00.000+01:00,"Send NFTs/tokens to any social account, no wallet required",undefined,Application,false,ETHOnline2022,Other
@@ -207,7 +205,7 @@ Saturn,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undef
 Serif,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 SocialLens,2022-08-21T02:39:00.000+01:00,"An immersive VR social app in which people can share, experience, discover and collect any NFT contents to their own wallet.",undefined,Hackaton,false,ETHMexico2022,Other
 SocialNouns,2022-10-17T02:39:00.000+01:00,Social Nouns NFT Collection,undefined,NFT,true,undefined,Other
-Soclly,2022-10-17T02:39:00.000+01:00,Shape your Web3 dreams into reality by interacting with Web3 Gurus,undefined,Application,true,undefined,Other
+Soclly,2022-10-17T02:39:00.000+01:00,Shape your Web3 dreams into reality by interacting with Web3 Gurus,undefined,Application,false,undefined,Other
 TATER POT,2022-10-17T02:39:00.000+01:00,A lottery game of hot potato & uncomfortable truths addressing bias + privacy,undefined,Hackaton,false,ETHBerlin2022,Other
 ToucanFrens,2022-10-17T02:39:00.000+01:00,Show gratitude for social media content with CO2 retirement,undefined,Hackaton,false,ETHBerlin2022,Other
 Troop.Finance,2022-10-17T02:39:00.000+01:00,Invest better together,undefined,Integration,true,undefined,Other
@@ -220,7 +218,6 @@ BrandKit,2022-10-17T02:39:00.000+01:00,Branding assets,undefined,Resource,true,u
 Building A New Social Network,2022-10-23T17:54:00.000+01:00,Building A New Social Network with web3,undefined,Resource,true,undefined,Resource 📖
 Chris Dixon and Naval Ravikant — The Wonders of Web3,undefined,The Wonders of Web3,undefined,Resource,true,undefined,Resource 📖
 Contracts,2022-10-17T02:39:00.000+01:00,Lens Protocol contracts,undefined,Resource,true,undefined,Resource 📖
-CultivatorDAO,2022-10-17T02:39:00.000+01:00,"A new era for open, decentralized content moderation in Web3.",undefined,DAO,true,undefined,Resource 📖
 Decentralizing social networks,undefined,Stani on Decentralizing social networks,undefined,Resource,true,undefined,Resource 📖
 Inspiration for builders,2022-10-19T16:08:00.000+01:00,Ideas to build on Lens,undefined,Resource,true,undefined,Resource 📖
 Lens Hotlink,2022-10-17T02:39:00.000+01:00,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,undefined,Resource,true,undefined,Resource 📖

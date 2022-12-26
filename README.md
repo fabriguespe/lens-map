@@ -12,7 +12,6 @@ Web2 networks all read from their unique, centralized database. There is no port
 **[Phaver](https://phaver.com)**<br />Help us curate interesting stuff online and offline and get rewarded.<br />cc undefined<br />
 **[re:meme](https://www.rememe.lol)**<br />On-chain meme generator, built on top of Lens Protocol<br />cc undefined<br />
 **[Share](https://theshr.xyz)**<br />Publish, Read, Connect and Collect the Best Writings of Your Favorite Authors<br />cc undefined<br />
-**[Superfun](https://lens.superfun.social/)**<br />A social app for Meme artists to get rewarded for their super fun content.<br />cc undefined<br />
 **[theDial](https://www.thedial.xyz/)**<br />A social canvas where prompts become craft<br />cc undefined<br />
 **[YUP](https://app.yup.io/)**<br />Web3 Social Network<br />cc undefined<br />
 ## Creator monetization 🤑
@@ -23,17 +22,22 @@ Curators amplify creator content by expanding its distribution reach. Curation i
 <br />
 <br />**[LensPort ](https://lensport.io)**<br />Discover, collect, and sell posts. Invest in creators you support.<br />cc undefined<br />
 **[Lensta](https://www.lensta.xyz/)**<br />Feed of the most recent images posted on Lens Protocol <br />cc undefined<br />
-## Community Tool 👫
-Throughout digital social networks people can share, connect, support, agree, debate and inspire. Tokenization creates newer and richer ways of interacting with each other.
+## Tools 🛠
+As users of web2 social networks, we often feel trapped by the restrictions placed on our content and social connections. We don't have ownership or control over these assets, which makes it difficult to move to web3 social networks and take advantage of their decentralized and censorship-resistant features. That's why we're building tools that make the transition to web3 social easier and more seamless. By reducing friction and making it easier for people to join web3 social networks, we hope to challenge the dominance of web2 networks and create a more open and decentralized online environment.
 <br />
-<br />**[Eden Protocol](https://edenprotocol.xyz)**<br />Web3 talent match protocol by developer dao<br />cc undefined<br />
-**[guild.xyz](https://guild.xyz/our-guild)**<br />Managed Lens discord roles<br />cc undefined<br />
-**[Handle Claim](https://claim.lens.xyz/)**<br />Claim your handle<br />cc undefined<br />
-**[Huddle01](https://huddle01.com/)**<br />One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.<br />cc undefined<br />
+<br />**[Chainjet](https://chainjet.io/)**<br />Build web3automation,easily.<br />cc undefined<br />
+**[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc undefined<br />
+**[Garden](https://garden.withlens.app)**<br />Links only your Lens followers can access<br />cc undefined<br />
+**[Greenhouse](https://greenhouse.social/)**<br />Grow and spread your web3 roots<br />cc undefined<br />
+**[InLens](https://inlens.xyz/)**<br />Find your friends from Twitter in Lens Protocol. Create shareable lists.<br />cc undefined<br />
+**[Lens Lists](https://lists.inlens.xyz/)**<br />Find your friends from Twitter in Lens Protocol. Create shareable lists.<br />cc undefined<br />
+**[Lens Share](https://lens-share.apoorv.xyz/)**<br />Replicate your Tweets into Lens<br />cc undefined<br />
 **[Lens Telegram Bot](https://t.me/lenstream_bot)**<br />A Lens protocol bot notifications for Telegram<br />cc undefined<br />
 **[LensAlert](https://lensalert.me)**<br />Lens notifications in Telegram<br />cc undefined<br />
+**[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc undefined<br />
 **[LensDrop](https://lensdrop.netlify.app/)**<br />Reward your Lens Protocol followers and fans with airdrops and special prizes.<br />cc undefined<br />
-**[Talently](https://talently.app/)**<br />Showcase your web3 profile<br />cc undefined<br />
+**[Postter](https://postter.xyz/)**<br />Schedule posts on Lens<br />cc undefined<br />
+**[Reflect](https://reflect.withlens.app)**<br />Reflect automatically cross-posts everything you share on Lens to Twitter. <br />cc undefined<br />
 ## Analytics 📊
 Analytics is important for maintaining ecosystem transparency, protocol health, and ongoing growth metrics. Data provides truth to an increasingly complex world. Agnostic content generates a new way to gather data from a social graph.
 <br />
@@ -49,27 +53,16 @@ Analytics is important for maintaining ecosystem transparency, protocol health, 
 **[Lenster Dune by gm365](https://dune.com/gm365/lens)**<br />Lens and Lenster dashboard in Lens<br />cc undefined<br />
 **[Stats Lens](https://stats.lens.xyz/)**<br />Official lens stats dashboard about posts, collects, accounts, etc.<br />cc undefined<br />
 **[Token Terminal](https://tokenterminal.com/terminal/projects/lens)**<br />Lens protocol charts<br />cc undefined<br />
-## Bridges 🌉
-Because we don't own neither our content nor our social graph we are lock into web2 networks. This adds a lot of friction when we try to bring people into web3 social. To start challenging these big network effects we need to have tools that make the transition easier.
-<br />
-<br />**[Greenhouse](https://greenhouse.social/)**<br />Grow and spread your web3 roots<br />cc undefined<br />
-**[InLens](https://inlens.xyz/)**<br />Find your friends from Twitter in Lens Protocol. Create shareable lists.<br />cc undefined<br />
-**[Lens Lists](https://lists.inlens.xyz/)**<br />Find your friends from Twitter in Lens Protocol. Create shareable lists.<br />cc undefined<br />
-**[Lens Share](https://lens-share.apoorv.xyz/)**<br />Replicate your Tweets into Lens<br />cc undefined<br />
-**[Reflect](https://reflect.withlens.app)**<br />Reflect automatically cross-posts everything you share on Lens to Twitter. <br />cc undefined<br />
-## Developer Tooling 👨🏼‍💻
+## Developers 👨🏼‍💻
 Decentralizing the whole social media stack is going to require big infrastructure projects. We require tools that can help developers at the experience and middleware layer.
 <br />
 <br />**[Aave Fee CollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AaveFeeCollectModule.sol)**<br />Extend the LimitedFeeCollectModule to deposit all received fees into the Aave Polygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.<br />cc undefined<br />
 **[API Examples](https://github.com/lens-protocol/api-examples)**<br />API Examples Repo<br />cc undefined<br />
 **[Arweave](https://www.arweave.org/)**<br />undefined<br />cc undefined<br />
 **[Auction CollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/AuctionCollectModule.sol)**<br />This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.<br />cc undefined<br />
-**[Authentication Quickstart](https://docs.lens.xyz/docs/authentication-quickstart)**<br />NextJs starter kit<br />cc undefined<br />
 **[DecentSDK](https://www.npmjs.com/package/@decent.xyz/sdk)**<br />Protocol SDK that allows minting and claiming NFT’s cross-chain. Integrated with Lens.<br />cc undefined<br />
 **[Degrees Of Seperation Module](https://github.com/lens-protocol/modules/blob/master/contracts/reference/DegreesOfSeparationReferenceModule.sol)**<br />This reference module allows to set a degree of separation n, and then allows to comment/mirror only to profiles that are at most at n
  degrees of separation from the author of the root publication.<br />cc undefined<br />
-**[Developer Quickstart](https://docs.lens.xyz/docs/developer-quickstart)**<br />NextJs starter kit<br />cc undefined<br />
-**[Docs](https://docs.lens.xyz/docs)**<br />Official Lens API documentation<br />cc undefined<br />
 **[IPFS](https://ipfs.tech/)**<br />undefined<br />cc undefined<br />
 **[Lens Kit](https://github.com/daoleno/lenskit)**<br />Community build Lens Protocol UI React KIT<br />cc undefined<br />
 **[lens-use](https://github.com/memester-xyz/lens-use)**<br />React Hooks for Lens Protocol<br />cc undefined<br />
@@ -86,18 +79,18 @@ Authorize<br />cc undefined<br />
 **[Token List](https://github.com/lens-protocol/token-list)**<br />Whitelisted tokens for Modules<br />cc undefined<br />
 **[UpdatableOwnable Fee CollectModule](https://github.com/lens-protocol/modules/blob/master/contracts/collect/UpdatableOwnableFeeCollectModule.sol)**<br />A fee collect module that, for each publication that uses it, mints an ERC-721 ownership-NFT to its author. Whoever owns the ownership-NFT has the rights to update the parameters required to do a successful collect operation over its underlying publication.<br />cc undefined<br />
 **[Use lens](https://github.com/use-lens/use-lens)**<br />React Hooks for Lens Protocol<br />cc undefined<br />
+**[WhoIsInLensAPI](https://github.com/0xJuancito/who-is-in-lens)**<br />Find your friends from Twitter in Lens Protocol<br />cc undefined<br />
 **[XMTP](https://xmtp.com/)**<br />Chat protocol<br />cc undefined<br />
 ## Identity 🎭
 Every profile has an owner and with that, we are building up an on-chain identity for these profiles. Identity can be delegated, portable & transferrable.
 <br />
 <br />**[Alchemy](https://www.alchemy.com/)**<br />undefined<br />cc undefined<br />
-**[Cultivator](https://cultivator.cc)**<br />Visual Explorer of the Lens Protocol Social Graph<br />cc undefined<br />
+**[Eden Protocol](https://edenprotocol.xyz)**<br />Web3 talent match protocol by developer dao<br />cc undefined<br />
 **[ENS](https://ens.domains/)**<br />Ethereum domain name system<br />cc undefined<br />
 **[Gelato](https://www.gelato.network/)**<br />undefined<br />cc undefined<br />
 **[Lens Human](https://human.withlens.app/)**<br />Simple curated page for your lens profiles.<br />cc undefined<br />
 **[Lensfrens](https://www.lensfrens.xyz/)**<br />Simple curated page for your lens profiles.<br />cc undefined<br />
 **[Livepeer](https://livepeer.org/)**<br />undefined<br />cc undefined<br />
-**[MashMesh](https://social.mashmesh.knn3.xyz/)**<br />Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.<br />cc undefined<br />
 **[MyDome](https://www.mydome.xyz/)**<br />Your web3 identity In one link.<br />cc undefined<br />
 **[Nimi](https://nimi.eth.limo)**<br />Your web3 profile page.<br />cc undefined<br />
 **[POAP](https://poap.xyz/)**<br />undefined<br />cc undefined<br />
@@ -106,6 +99,7 @@ Every profile has an owner and with that, we are building up an on-chain identit
 **[Push](https://push.org/)**<br />undefined<br />cc undefined<br />
 **[Sismo](https://www.sismo.io/)**<br />The key primitive for web3 identities<br />cc undefined<br />
 **[Sybil.org](https://sybil.org/)**<br />undefined<br />cc undefined<br />
+**[Talently](https://talently.app/)**<br />Showcase your web3 profile<br />cc undefined<br />
 **[Toucan](https://toucan.earth/)**<br />undefined<br />cc undefined<br />
 **[WorldCoin](https://worldcoin.org/)**<br />undefined<br />cc undefined<br />
 ## Music 🎶
@@ -128,7 +122,9 @@ IRL and remote events are embedded into our social experience. Tickets are now N
 ## Algorithms 🧮
 One challenge that every social application faces is how to moderate content and prevent spam in a censorship-resistant way. We know that if left unmoderated, spam and bots can ruin the experience and the trust and safety of the users. Having choice and transparency over which algorithms we use is part of the web3 social experience.
 <br />
-<br />**[Meetvers](https://app.meetvers.io/)**<br />Find lens friends with similar Web3 footprint<br />cc undefined<br />
+<br />**[Cultivator](https://cultivator.cc)**<br />Visual Explorer of the Lens Protocol Social Graph<br />cc undefined<br />
+**[MashMesh](https://social.mashmesh.knn3.xyz/)**<br />Explore all the information about your social graph through a dynamic mesh. Get info about all NFT’s, POAP’s, Tokens, Votes, Events, Follows and collects.<br />cc undefined<br />
+**[Meetvers](https://app.meetvers.io/)**<br />Find lens friends with similar Web3 footprint<br />cc undefined<br />
 ## DAO Tools 🗳
 DAOs embody the promise of decentralized ownership and distributed operations. DAOs manage votes, decisions and assets, bypassing traditional legal set-ups. As DAOs continue to evolve, they will need help to improve how they assemble, organize, communicate and operate.
 <br><br> Follow NFTs include built-in governance mechanisms. When following a profile, followers obtain a FollowNFT, which is the core building block of the Lens Protocol social graph. From a technical perspective, these NFTs contain governance-specific logic that allows any profile can spin up a DAO in minutes.
@@ -140,23 +136,17 @@ for user-generated roadmaps, grants, endorsements, bounties, curation, and commu
 ## Other
 There are still many opportunities and verticals to explore in web3 social. We are still too early and it is not clear how many use cases will emerge out of web3 social. 
 <br />
-<br />**[Alps Finance](https://app.alps.finance/)**<br />Alps Finance is a Social DeFi investing platform for DeFi investors to build their own investing community and reputation easily. <br />cc undefined<br />
-**[ArtofficialIntelligence](https://www.artofficialintelligence.xyz/)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc undefined<br />
-**[Chainjet](https://chainjet.io/)**<br />Build web3automation,easily.<br />cc undefined<br />
-**[Dispatch ](https://app.dispatch.xyz/)**<br />On-chain messaging and analytics for web3 projects.<br />cc undefined<br />
-**[Embed](https://embed.withlens.app)**<br />Easily embed Lens post anywhere<br />cc undefined<br />
-**[Garden](https://garden.withlens.app)**<br />Links only your Lens followers can access<br />cc undefined<br />
-**[Harfang](https://harfang.app)**<br />Postal NFT creator and marketplace<br />cc undefined<br />
+<br />**[ArtofficialIntelligence](https://www.artofficialintelligence.xyz/)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br />cc undefined<br />
+**[guild.xyz](https://guild.xyz/our-guild)**<br />Managed Lens discord roles<br />cc undefined<br />
+**[Hashchat](https://www.hashchat.xyz)**<br />We provide end-to-end encryption to keep your messages safe. You deserve to be in control of your data.<br />cc undefined<br />
+**[Huddle01](https://huddle01.com/)**<br />One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.<br />cc undefined<br />
 **[Infinity Keys ](https://www.infinitykeys.io/)**<br />Infinity Keys is a no-code creator tools platform for brands and fans to build engaging metaverse treasure hunt experiences.<br />cc undefined<br />
 **[Interface Social](https://www.interface.social/)**<br />Social mobile app with human readable web3 feed.<br />cc undefined<br />
-**[Lenscast](https://www.raycast.com/peduarte/lenscast)**<br />Web3 Social Raycast Extension built with Lens Protocol<br />cc undefined<br />
-**[LensEncrypted Messaging](https://lens-encrypted-messaging.netlify.app/)**<br />A tool to encrypt and send message<br />cc undefined<br />
 **[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br />cc undefined<br />
 **[OpenSea](https://opensea.io/)**<br />undefined<br />cc undefined<br />
 **[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br />cc undefined<br />
 **[Roci.fi](https://roci.fi/)**<br />On-chain credit scoring for under-collateralized retail loans.<br />cc undefined<br />
 **[SocialNouns](https://socialnouns.wtf/)**<br />Social Nouns NFT Collection<br />cc undefined<br />
-**[Soclly](https://www.soclly.com)**<br />Shape your Web3 dreams into reality by interacting with Web3 Gurus<br />cc undefined<br />
 **[Troop.Finance](https://www.troop.finance)**<br />Invest better together<br />cc undefined<br />
 **[Zerion](https://zerion.io/)**<br />Allows for transactions with lens handles<br />cc undefined<br />
 ## Resource 📖
@@ -167,7 +157,6 @@ Learn more about our protocol, web3social and our ecosystem the #Lensverse with 
 **[Building A New Social Network](https://mirror.xyz/4rc.eth/2wnexqj6T6HTXUwvRnlGPqFaEMcUcO8N-YbJqUr-l9I)**<br />Building A New Social Network with web3<br />cc undefined<br />
 **[Chris Dixon and Naval Ravikant — The Wonders of Web3](https://podcasts.apple.com/ar/podcast/the-tim-ferriss-show/id863897795?i=1000540043607)**<br />The Wonders of Web3<br />cc undefined<br />
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br />cc undefined<br />
-**[CultivatorDAO](https://mirror.xyz/lensprotocol.eth/pIzwjs9uhH8eSS1Bx0K1r-3iHEgLlBt6ruPXcEJe0S0)**<br />A new era for open, decentralized content moderation in Web3.<br />cc undefined<br />
 **[Decentralizing social networks](https://podcasts.apple.com/ar/podcast/pressclub-with-josh-constine/id1547512963?i=1000570728172)**<br />Stani on Decentralizing social networks<br />cc undefined<br />
 **[Inspiration for builders](https://www.notion.so/aave/Inspiration-for-Builders-1db7dbd3e7b14eaf9a97a341b1a3ff55)**<br />Ideas to build on Lens<br />cc undefined<br />
 **[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br />cc undefined<br />
