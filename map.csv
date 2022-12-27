@@ -69,7 +69,6 @@ Aave Fee CollectModule,2022-10-17T02:39:00.000+01:00,Extend the LimitedFeeCollec
 API Examples,2022-10-17T02:39:00.000+01:00,API Examples Repo,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Arweave,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Developers 👨🏼‍💻
 Auction CollectModule,2022-10-17T02:39:00.000+01:00,"This module works by creating an English auction for the underlying publication. After the auction ends, only the auction winner is allowed to collect the publication.",undefined,Module,true,undefined,Developers 👨🏼‍💻
-Build Web3 Experiences with Lens Protocol,undefined,Build Web3 Experiences with Lens Protocol,undefined,Resource,false,undefined,Developers 👨🏼‍💻
 DecentSDK,2022-10-17T02:39:00.000+01:00,Protocol SDK that allows minting and claiming NFT’s cross-chain. Integrated with Lens.,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Degrees Of Seperation Module,2022-10-17T02:39:00.000+01:00,"This reference module allows to set a degree of separation n, and then allows to comment/mirror only to profiles that are at most at n
  degrees of separation from the author of the root publication.",undefined,Module,true,undefined,Developers 👨🏼‍💻
@@ -201,9 +200,11 @@ Mixdown,2022-08-21T02:39:00.000+01:00,"A dapp for creating collaborative audio o
 Off-chain,2022-10-17T02:39:00.000+01:00,Off-chan spending application with social sharing features,undefined,Hackaton,false,ETHBogota2022,Other
 OpenSea,2022-10-17T02:39:00.000+01:00,undefined,undefined,Partner,true,undefined,Other
 PhiLand,2022-10-17T02:39:00.000+01:00,Unlock Lens challenges to build your web3 cities from your wallet activities. ,undefined,Application,true,undefined,Other
+RallyFM,2022-10-17T02:39:00.000+01:00,Rally is an open-source alternative to Twitter Space and Clubhouse. Just connect your wallet and pick a room to drop-in and listen what's up.,undefined,Application,true,undefined,Other
 Regenerative Lens,2022-10-17T02:39:00.000+01:00,Enable Lens Protocol to create a social network with positive climate impact and gamified system,undefined,Hackaton,false,LFGROW,Other
 Roci.fi,undefined,On-chain credit scoring for under-collateralized retail loans.,undefined,Application,true,undefined,Other
 Saturn,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
+SendACoin,2022-10-28T09:04:00.000+01:00,Visit the handle page for your profile. Look at your profile's appearance.,undefined,Application,true,undefined,Other
 Serif,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Other
 SocialLens,2022-08-21T02:39:00.000+01:00,"An immersive VR social app in which people can share, experience, discover and collect any NFT contents to their own wallet.",undefined,Hackaton,false,ETHMexico2022,Other
 SocialNouns,2022-10-17T02:39:00.000+01:00,Social Nouns NFT Collection,undefined,NFT,true,undefined,Other
@@ -218,12 +219,15 @@ Zerion,2022-10-17T02:39:00.000+01:00,Allows for transactions with lens handles,u
 zkGraph,2022-10-17T02:39:00.000+01:00,"StarkNet and Lens Protocol compatible smart contracts-based social graph, fully composable and user-owned",undefined,Application,false,undefined,Other
 Awesome Lens Protocol,2022-10-17T02:39:00.000+01:00,"A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.",undefined,Resource,true,undefined,Resource 📖
 BrandKit,2022-10-17T02:39:00.000+01:00,Branding assets,undefined,Resource,true,undefined,Resource 📖
+Build Web3 Experiences with Lens Protocol,undefined,Build Web3 Experiences with Lens Protocol,undefined,Resource,true,undefined,Resource 📖
+Building a Full Stack Social Mobile App,undefined,"Building a Full Stack Social Mobile App in 15 minutes with Expo, React Native, and Lens Protocol",undefined,Resource,true,undefined,Resource 📖
 Building A New Social Network,2022-10-23T17:54:00.000+01:00,Building A New Social Network with web3,undefined,Resource,true,undefined,Resource 📖
 Chris Dixon and Naval Ravikant — The Wonders of Web3,undefined,The Wonders of Web3,undefined,Resource,true,undefined,Resource 📖
 Contracts,2022-10-17T02:39:00.000+01:00,Lens Protocol contracts,undefined,Resource,true,undefined,Resource 📖
 Decentralizing social networks,undefined,Stani on Decentralizing social networks,undefined,Resource,true,undefined,Resource 📖
 Inspiration for builders,2022-10-19T16:08:00.000+01:00,Ideas to build on Lens,undefined,Resource,true,undefined,Resource 📖
 Lens Hotlink,2022-10-17T02:39:00.000+01:00,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,undefined,Resource,true,undefined,Resource 📖
+Lens Protocol - The ULTIMATE Guide,undefined,Build A Decentralized Web3 Social Media App!,undefined,Resource,true,undefined,Resource 📖
 Lens useful link and resource,2022-10-17T02:39:00.000+01:00,Lens useful link and resource,undefined,Resource,true,undefined,Resource 📖
 lens-map,2022-10-18T15:53:00.000+01:00,Lens Map Notion Repo,undefined,Resource,true,undefined,Resource 📖
 Lensgarden,undefined,Lens ecosystem landing map,undefined,Resource,true,undefined,Resource 📖

@@ -14,10 +14,7 @@ Web2 networks all read from their unique, centralized database. There is no port
 **[Share](https://theshr.xyz)**<br />Publish, Read, Connect and Collect the Best Writings of Your Favorite Authors<br /><br />
 **[theDial](https://www.thedial.xyz/)**<br />A social canvas where prompts become craft<br /><br />
 **[YUP](https://app.yup.io/)**<br />Web3 Social Network<br /><br />
-## Creator monetization 🤑
-Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.
-<br />
-<br />## Curation 🧹
+## Curation 🧹
 Curators amplify creator content by expanding its distribution reach. Curation involves gathering, elevating, and commenting on content for specific audiences. Curation is its own unique form of creation, and demands unique tools to do it.
 <br />
 <br />**[LensPort ](https://lensport.io)**<br />Discover, collect, and sell posts. Invest in creators you support.<br /><br />
@@ -129,7 +126,9 @@ There are still many opportunities and verticals to explore in web3 social. We a
 **[Interface Social](https://www.interface.social/)**<br />Social mobile app with human readable web3 feed.<br /><br />
 **[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br /><br />
 **[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br /><br />
+**[RallyFM](https://alpha.letsrally.fm/)**<br />Rally is an open-source alternative to Twitter Space and Clubhouse. Just connect your wallet and pick a room to drop-in and listen what's up.<br /><br />
 **[Roci.fi](https://roci.fi/)**<br />On-chain credit scoring for under-collateralized retail loans.<br /><br />
+**[SendACoin](https://sendacoin.to/)**<br />Visit the handle page for your profile. Look at your profile's appearance.<br /><br />
 **[SocialNouns](https://socialnouns.wtf/)**<br />Social Nouns NFT Collection<br /><br />
 **[Troop.Finance](https://www.troop.finance)**<br />Invest better together<br /><br />
 **[Wav3s](https://solitary-voice-4207.fly.dev/)**<br />Reward users sharing your publications<br /><br />
@@ -138,12 +137,15 @@ Learn more about our protocol, web3social and our ecosystem the #Lensverse with 
 <br />
 <br />**[Awesome Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br /><br />
 **[BrandKit](https://github.com/lens-protocol/brand-kit)**<br />Branding assets<br /><br />
+**[Build Web3 Experiences with Lens Protocol](https://www.youtube.com/watch?v=S5bXI51Qm0o)**<br />Build Web3 Experiences with Lens Protocol<br /><br />
+**[Building a Full Stack Social Mobile App](https://www.youtube.com/watch?v=qs6OE9kef6I)**<br />Building a Full Stack Social Mobile App in 15 minutes with Expo, React Native, and Lens Protocol<br /><br />
 **[Building A New Social Network](https://mirror.xyz/4rc.eth/2wnexqj6T6HTXUwvRnlGPqFaEMcUcO8N-YbJqUr-l9I)**<br />Building A New Social Network with web3<br /><br />
 **[Chris Dixon and Naval Ravikant — The Wonders of Web3](https://podcasts.apple.com/ar/podcast/the-tim-ferriss-show/id863897795?i=1000540043607)**<br />The Wonders of Web3<br /><br />
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br /><br />
 **[Decentralizing social networks](https://podcasts.apple.com/ar/podcast/pressclub-with-josh-constine/id1547512963?i=1000570728172)**<br />Stani on Decentralizing social networks<br /><br />
 **[Inspiration for builders](https://www.notion.so/aave/Inspiration-for-Builders-1db7dbd3e7b14eaf9a97a341b1a3ff55)**<br />Ideas to build on Lens<br /><br />
 **[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br /><br />
+**[Lens Protocol - The ULTIMATE Guide](https://www.youtube.com/watch?v=e1mPmDRUUBc)**<br />Build A Decentralized Web3 Social Media App!<br /><br />
 **[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br /><br />
 **[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br /><br />
 **[Lensgarden](https://lensgarden.xyz/)**<br />Lens ecosystem landing map<br /><br />
