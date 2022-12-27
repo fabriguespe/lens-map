@@ -82,6 +82,7 @@ Lens.js,2022-10-17T02:39:00.000+01:00,Community made JavaScript SDK for Lens Pro
 LensRaffle,2022-10-17T02:39:00.000+01:00,Giveaway module for the lens protocol. Easily give some matic to a truly random follower of a profile. Use it for any dapp built on lens.,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
 LensSDK,2022-10-17T02:39:00.000+01:00,The official SDK to interact with the Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Lensterdam,2022-10-17T02:39:00.000+01:00,"Engaging push notifications for The Lens Protocol with EPNS, TheGraph and POAP",undefined,Hackaton,false,ETHAMSTERDAM,Developers 👨🏼‍💻
+LensThirdWebSDK,2022-10-17T02:39:00.000+01:00,This package enables gated encrypting and decrypting publication metadata compatible with the Lens API.,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Lenstify,2022-10-17T02:39:00.000+01:00,Lenstify is a front-end for Lens with a great interface and many features.,undefined,Hackaton,false,LFGROW,Developers 👨🏼‍💻
 lensurance,2022-10-17T02:39:00.000+01:00,collect module for lens protocol which only allows a single collect per person.,undefined,Hackaton,false,ETHNEWYORK 2022,Developers 👨🏼‍💻
 Libertapp,2022-10-17T02:39:00.000+01:00,Censorship-resistant DApp Client,undefined,Hackaton,false,ETHBerlin2022,Developers 👨🏼‍💻
@@ -95,6 +96,7 @@ Poll Module,undefined,"Simple Lens Protocol module to create polls. At the momen
 Resources",undefined,Module,false,undefined,Developers 👨🏼‍💻
 React Native Lens UI Kit,2022-10-17T02:39:00.000+01:00,A React Native UI kit for Lens Protocol. Get started building with as little as 2 lines of code. Mix and match components to supercharge your mobile development workflow.,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Scaffold Lens,2022-10-17T22:22:00.000+01:00,Scaffold ETH starter kit for Lens Protocol,undefined,Library,true,undefined,Developers 👨🏼‍💻
+sdk-gated,2022-10-17T02:39:00.000+01:00,This package enables gated encrypting and decrypting publication metadata compatible with the Lens API.,undefined,Library,true,undefined,Developers 👨🏼‍💻
 Sepana,2022-10-17T02:39:00.000+01:00,Search layer for Lens posts,undefined,Hackaton,true,LFGROW,Developers 👨🏼‍💻
 Share on Lens,2022-10-17T02:39:00.000+01:00,"A customizable, React button component for sharing to ",undefined,Library,true,undefined,Developers 👨🏼‍💻
 Subgraph,2022-10-17T02:39:00.000+01:00,The Graph Subgraph for Lens Protocols,undefined,Library,false,undefined,Developers 👨🏼‍💻
@@ -209,6 +211,7 @@ Soclly,2022-10-17T02:39:00.000+01:00,Shape your Web3 dreams into reality by inte
 TATER POT,2022-10-17T02:39:00.000+01:00,A lottery game of hot potato & uncomfortable truths addressing bias + privacy,undefined,Hackaton,false,ETHBerlin2022,Other
 ToucanFrens,2022-10-17T02:39:00.000+01:00,Show gratitude for social media content with CO2 retirement,undefined,Hackaton,false,ETHBerlin2022,Other
 Troop.Finance,2022-10-17T02:39:00.000+01:00,Invest better together,undefined,Integration,true,undefined,Other
+Wav3s,2022-10-28T09:04:00.000+01:00,Reward users sharing your publications,undefined,Application,true,undefined,Other
 WhisperChain,undefined,Whisper Chain is a fun social experiment. This is our take on the famous game of Chinese whispers or telephone,undefined,Hackaton,false,ETHIndia2022,Other
 Whistleblower - Wikileaks,2022-10-17T02:39:00.000+01:00,"Whistleblower allows anyone from all over the world to post data, ideas, thoughts, and documents, privately and securely forever using Lens Protocol",undefined,Hackaton,false,ETHBerlin2022,Other
 Zerion,2022-10-17T02:39:00.000+01:00,Allows for transactions with lens handles,undefined,Partner,true,undefined,Other
@@ -222,14 +225,13 @@ Decentralizing social networks,undefined,Stani on Decentralizing social networks
 Inspiration for builders,2022-10-19T16:08:00.000+01:00,Ideas to build on Lens,undefined,Resource,true,undefined,Resource 📖
 Lens Hotlink,2022-10-17T02:39:00.000+01:00,Links to Lens Protocol posts/profiles that open in the user's preferred frontend,undefined,Resource,true,undefined,Resource 📖
 Lens useful link and resource,2022-10-17T02:39:00.000+01:00,Lens useful link and resource,undefined,Resource,true,undefined,Resource 📖
-Lens Website,2022-10-18T17:57:00.000+01:00,Lens Protocol Official Website,undefined,Resource,true,undefined,Resource 📖
 lens-map,2022-10-18T15:53:00.000+01:00,Lens Map Notion Repo,undefined,Resource,true,undefined,Resource 📖
 Lensgarden,undefined,Lens ecosystem landing map,undefined,Resource,true,undefined,Resource 📖
-Lensverse,2022-10-19T16:08:00.000+01:00,Lens Application Ecosystem,undefined,Resource,true,undefined,Resource 📖
 Lensverse Ideas,2022-10-19T16:08:00.000+01:00,Ideas to build on Lens,undefined,Resource,true,undefined,Resource 📖
 Nader Video Tutorial,2022-10-17T02:39:00.000+01:00,"Building a Social Media App with Lens Protocol, Next.js, and GraphQL.",undefined,Resource,false,undefined,Resource 📖
 Optimistic UX,undefined,"The endgame for solving blockchain UX means abstracting all base layers that orchestrate the backend and have only great applications on top, that just works.",undefined,Resource,true,undefined,Resource 📖
 Sahil Lavingia — From Web 2.1 to Web 3,undefined,Sahil Lavingia — From Web 2.1 to Web 3,undefined,Resource,true,undefined,Resource 📖
 The Future of Decentralized Social,undefined,The Future of Decentralized Social,undefined,Resource,true,undefined,Resource 📖
+Web3 Social Front-ends: A glimpse into the future,undefined,There are already 8 front-end applications created on top of Lens Protocol. All of them are still in beta and early stages of development but are growing fast driven by visionary entrepreneurs and developers.,undefined,Resource,true,undefined,Resource 📖
 Web3 Social Hub by Fei,2022-10-17T22:38:00.000+01:00,Web3 Social notion doc,undefined,Resource,true,undefined,Resource 📖
 Web3 Social Media,undefined,Bradley on Web3 Social Media,undefined,Resource,true,undefined,Resource 📖

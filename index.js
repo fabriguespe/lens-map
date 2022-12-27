@@ -79,14 +79,12 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             md+='**['+title+']('+url+')**'+'<br />';
             md+=(description)+'<br />';
             cc=cc?.split(',')
-            let cc2='cc '
+            /*let cc2='cc '
             for(let i in cc) cc2+='@'+cc[i]+' '
-            md+=(cc?cc2:'cc undefined')
+            md+=(cc?cc2:'cc undefined')*/
             
             md+=('<br />\n')
 
-            let isup=await isUp(url);
-            if(!isup)console.log(url)
             //updateMeta(notion,row)
           }
           //getTwitter()
