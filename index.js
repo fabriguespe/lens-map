@@ -6,6 +6,8 @@ import {Client} from "@notionhq/client";
 import extractUrls from "extract-urls";
 import {} from 'dotenv/config';
 import { readFile } from 'fs/promises';
+import isUp from 'is-up';
+
 
 const categories = JSON.parse(await readFile(new URL('./categories.json', import.meta.url)));
 
@@ -83,6 +85,8 @@ const categories = JSON.parse(await readFile(new URL('./categories.json', import
             
             md+=('<br />\n')
 
+            let isup=await isUp(url);
+            if(!isup)console.log(url)
             //updateMeta(notion,row)
           }
           //getTwitter()
