@@ -144,7 +144,6 @@ Learn more about our protocol, web3social and our ecosystem the #Lensverse with 
 **[Contracts](https://github.com/lens-protocol/core/tree/main/contracts/core)**<br />Lens Protocol contracts<br /><br />
 **[Decentralizing social networks](https://podcasts.apple.com/ar/podcast/pressclub-with-josh-constine/id1547512963?i=1000570728172)**<br />Stani on Decentralizing social networks<br /><br />
 **[Inspiration for builders](https://www.notion.so/aave/Inspiration-for-Builders-1db7dbd3e7b14eaf9a97a341b1a3ff55)**<br />Ideas to build on Lens<br /><br />
-**[Lens Hotlink](https://open.withlens.app)**<br />Links to Lens Protocol posts/profiles that open in the user's preferred frontend<br /><br />
 **[Lens Protocol - The ULTIMATE Guide](https://www.youtube.com/watch?v=e1mPmDRUUBc)**<br />Build A Decentralized Web3 Social Media App!<br /><br />
 **[Lens useful link and resource](https://nelsonrodmar.notion.site/nelsonrodmar/Lens-useful-link-and-resource-2d5f42687fa843e08c8ef54761dee044)**<br />Lens useful link and resource<br /><br />
 **[lens-map](https://github.com/fabriguespe/lens-map)**<br />Lens Map Notion Repo<br /><br />
