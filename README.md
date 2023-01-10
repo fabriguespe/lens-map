@@ -107,9 +107,14 @@ IRL and remote events are embedded into our social experience. Tickets are now N
 **[Web3Event](https://web3events.ai/)**<br />Create, distribute and monitor tickets for events with Web3Event's Ticketing Platform<br /><br />
 **[Welook](https://welook.io/)**<br />Create your own POAPs, and share them with the world. Discover new wallets and POAPs.<br /><br />
 ## Monetization 💰
-.
+Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.
 <br />
-<br />## Algorithms 🧮
+<br />**[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br /><br />
+**[PlexLabs](https://www.plexlabs.io/)**<br />Integrate Web3 user data in your marketing workflow. Take advantage of new channels to engage your users.<br /><br />
+**[SendACoin](https://sendacoin.to/)**<br />Visit the handle page for your profile. Look at your profile's appearance.<br /><br />
+**[Wagmi Fund](https://www.wagmi.fund/)**<br />Create. Collect. Celebrate.<br /><br />
+**[Wav3s](https://wav3s.app/)**<br />Reward users sharing your publications<br /><br />
+## Algorithms 🧮
 One challenge that every social application faces is how to moderate content and prevent spam in a censorship-resistant way. We know that if left unmoderated, spam and bots can ruin the experience and the trust and safety of the users. Having choice and transparency over which algorithms we use is part of the web3 social experience.
 <br />
 <br />**[Cultivator](https://cultivator.cc)**<br />Visual Explorer of the Lens Protocol Social Graph<br /><br />

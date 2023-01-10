@@ -1,7 +1,7 @@
 title,launch_date,description,cc,type,curated,hackaton,category
 Buttrfly,2022-10-17T02:39:00.000+01:00,You own your data. The social media you deserve.,undefined,Application,true,undefined,Social Media ❤️‍🔥
 DeShare,undefined,"A Decentralised Content sharing with web2 like experience, and Smart contract based Incentive",undefined,Hackaton,false,ETHIndia2022,Social Media ❤️‍🔥
-DiverseHQ,2022-10-17T02:39:00.000+01:00,Create an account to follow your favorite communities and start taking part in conversations.,undefined,Hackaton,true,undefined,Social Media ❤️‍🔥
+DiverseHQ,2022-10-17T02:39:00.000+01:00,Create an account to follow your favorite communities and start taking part in conversations.,undefined,Application,true,undefined,Social Media ❤️‍🔥
 Fanstastic,2022-10-17T02:39:00.000+01:00,Share your social media profiles,undefined,Application,true,undefined,Social Media ❤️‍🔥
 Gummys,2022-10-17T02:39:00.000+01:00,undefined,undefined,Application,false,undefined,Social Media ❤️‍🔥
 Hacklens,2022-10-17T02:39:00.000+01:00,"A decentralised social network that allows hackathon organizers, builders & sponsors to form lasting creative relationships and support each other",undefined,Hackaton,false,ETHAMSTERDAM,Social Media ❤️‍🔥
@@ -143,6 +143,11 @@ Summit C,2022-10-17T02:39:00.000+01:00,"Using Lens Protocol to create a web3 soc
 Ticklens,undefined,An awesome JavaScript SDK to create your ticket platform over Lens protocol,undefined,Library,true,undefined,Events 🎫
 Web3Event,undefined,"Create, distribute and monitor tickets for events with Web3Event's Ticketing Platform",undefined,Application,true,undefined,Events 🎫
 Welook,2022-10-17T02:39:00.000+01:00,"Create your own POAPs, and share them with the world. Discover new wallets and POAPs.",undefined,Application,true,undefined,Events 🎫
+Mad.Finance,2022-10-17T02:39:00.000+01:00,"Thge ad protocol for web3, paying content creators in real-time ",undefined,Application,true,undefined,Monetization 💰
+PlexLabs,2022-10-17T02:39:00.000+01:00,Integrate Web3 user data in your marketing workflow. Take advantage of new channels to engage your users.,undefined,Application,true,undefined,Monetization 💰
+SendACoin,2022-10-28T09:04:00.000+01:00,Visit the handle page for your profile. Look at your profile's appearance.,undefined,Application,true,undefined,Monetization 💰
+Wagmi Fund,2022-10-28T09:04:00.000+01:00,Create. Collect. Celebrate.,undefined,Application,true,undefined,Monetization 💰
+Wav3s,2022-10-28T09:04:00.000+01:00,Reward users sharing your publications,undefined,Application,true,undefined,Monetization 💰
 CheckyBoty,2022-10-17T02:39:00.000+01:00,"Leveraging LENS functionality to mint user interaction and device points , a social medium can decide to flag a user as bot and not allow access to its resources",undefined,Hackaton,false,OxfordHack2022,Algorithms 🧮
 Cultivator,2022-10-17T02:39:00.000+01:00,Visual Explorer of the Lens Protocol Social Graph,undefined,Application,true,undefined,Algorithms 🧮
 Lenseye,2022-10-17T02:39:00.000+01:00,Using GNNs to do link prediction on the lens social graph.,undefined,Hackaton,false,OxfordHack2022,Algorithms 🧮
