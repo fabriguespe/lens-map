@@ -126,10 +126,23 @@ DAOs embody the promise of decentralized ownership and distributed operations. D
 <br />
 <br />**[Jokedao](https://www.jokedao.io/)**<br />Bottom-up, on-chain governance.
 for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions—including joke contests.<br /><br />
-## Other
+## Other ✨
 There are still many opportunities and verticals to explore in web3 social. We are still too early and it is not clear how many use cases will emerge out of web3 social. 
 <br />
-<br />## Resource 📖
+<br />**[ArtofficialIntelligence](https://www.artofficialintelligence.xyz/)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br /><br />
+**[f3rn](https://app.f3rn.xyz/)**<br />Discover curated art<br /><br />
+**[guild.xyz](https://guild.xyz/our-guild)**<br />Managed Lens discord roles<br /><br />
+**[Hashchat](https://www.hashchat.xyz)**<br />We provide end-to-end encryption to keep your messages safe. You deserve to be in control of your data.<br /><br />
+**[Huddle01](https://huddle01.com/)**<br />One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.<br /><br />
+**[Infinity Keys ](https://www.infinitykeys.io/)**<br />Infinity Keys is a no-code creator tools platform for brands and fans to build engaging metaverse treasure hunt experiences.<br /><br />
+**[Interface Social](https://www.interface.social/)**<br />Social mobile app with human readable web3 feed.<br /><br />
+**[Lenspin](https://www.lenspin.xyz/)**<br />LensPin aims to make it easy for users to own and host their own data<br /><br />
+**[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br /><br />
+**[RallyFM](https://alpha.letsrally.fm/)**<br />Rally is an open-source alternative to Twitter Space and Clubhouse. Just connect your wallet and pick a room to drop-in and listen what's up.<br /><br />
+**[Roci.fi](https://roci.fi/)**<br />On-chain credit scoring for under-collateralized retail loans.<br /><br />
+**[SocialNouns](https://socialnouns.wtf/)**<br />Social Nouns NFT Collection<br /><br />
+**[Troop.Finance](https://www.troop.finance)**<br />Invest better together<br /><br />
+## Resource 📖
 Learn more about our protocol, web3social and our ecosystem the #Lensverse with curated high quality resources
 <br />
 <br />**[Awesome Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br /><br />
