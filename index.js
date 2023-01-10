@@ -149,6 +149,3 @@ async function  updateMeta(notion,row){
         }
     }
   }
-///"Creator monetization 🤑":"Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.",
-  
-  
