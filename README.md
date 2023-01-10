@@ -1,6 +1,7 @@
 ## Social Media ❤️‍🔥
 Web2 networks all read from their unique, centralized database. There is no portability. Your profile, friends, and content are locked to a specific network and owned by the network operator. This causes each network to fight a zero-sum game for your attention.
-<br><br> Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
+<br><br>Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. 
+<br><br>Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention..
 <br />
 <br />**[Buttrfly](https://www.buttrfly.app/)**<br />You own your data. The social media you deserve.<br /><br />
 **[DiverseHQ](https://app.diversehq.xyz/)**<br />Create an account to follow your favorite communities and start taking part in conversations.<br /><br />
@@ -107,7 +108,7 @@ IRL and remote events are embedded into our social experience. Tickets are now N
 **[Web3Event](https://web3events.ai/)**<br />Create, distribute and monitor tickets for events with Web3Event's Ticketing Platform<br /><br />
 **[Welook](https://welook.io/)**<br />Create your own POAPs, and share them with the world. Discover new wallets and POAPs.<br /><br />
 ## Monetization 💰
-Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content.
+Mirrors, collects, follows and comments allow creators to monetize their content directly to the user, without intermediaries and in a permissionaless way. Because creators own their content via the Lens Protocol, they can allow their followers to purchase that content. When a user posts a publication to their Profile NFT they have the option to set a Collect Module. This module allows other users to mint NFTs that link to the publication's ContentURI. This module can contain any arbitrary logic to apply to the minting process and the resulting NFT. .
 <br />
 <br />**[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br /><br />
 **[PlexLabs](https://www.plexlabs.io/)**<br />Integrate Web3 user data in your marketing workflow. Take advantage of new channels to engage your users.<br /><br />
@@ -122,7 +123,7 @@ One challenge that every social application faces is how to moderate content and
 **[Meetvers](https://app.meetvers.io/)**<br />Find lens friends with similar Web3 footprint<br /><br />
 ## DAO Tools 🗳
 DAOs embody the promise of decentralized ownership and distributed operations. DAOs manage votes, decisions and assets, bypassing traditional legal set-ups. As DAOs continue to evolve, they will need help to improve how they assemble, organize, communicate and operate.
-<br><br> Follow NFTs include built-in governance mechanisms. When following a profile, followers obtain a FollowNFT, which is the core building block of the Lens Protocol social graph. From a technical perspective, these NFTs contain governance-specific logic that allows any profile can spin up a DAO in minutes.
+<br><br>Follow NFTs include built-in governance mechanisms. When following a profile, followers obtain a FollowNFT, which is the core building block of the Lens Protocol social graph. From a technical perspective, these NFTs contain governance-specific logic that allows any profile can spin up a DAO in minutes.
 <br />
 <br />**[Jokedao](https://www.jokedao.io/)**<br />Bottom-up, on-chain governance.
 for user-generated roadmaps, grants, endorsements, bounties, curation, and community-driven decisions—including joke contests.<br /><br />
