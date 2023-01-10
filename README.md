@@ -3,6 +3,7 @@ Web2 networks all read from their unique, centralized database. There is no port
 <br><br> Lens Protocol corrects this by being a user-owned, open social graph that any application can plug into. Since users own their data, they can bring it to any application built on top of Lens Protocol. As the true owners of their content, creators no longer need to worry about losing their content, audience, and livelihood based on the whims of an individual platform's algorithms and policies. Additionally, each application using Lens Protocol benefits the whole ecosystem, turning the zero-sum game into a collaborative one. Developers can design meaningful social experiences without having to turn to feedback mechanisms to lock in a user's attention.
 <br />
 <br />**[Buttrfly](https://www.buttrfly.app/)**<br />You own your data. The social media you deserve.<br /><br />
+**[DiverseHQ](https://app.diversehq.xyz/)**<br />Create an account to follow your favorite communities and start taking part in conversations.<br /><br />
 **[Fanstastic](https://fanstastic.app/)**<br />Share your social media profiles<br /><br />
 **[Lenster](https://lenster.xyz)**<br />Lenster is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿<br /><br />
 **[Lenstube](https://lenstube.xyz/)**<br />Lenstube is a decentralized video-sharing social media platform built with Lens protocol.<br /><br />
@@ -10,6 +11,7 @@ Web2 networks all read from their unique, centralized database. There is no port
 **[Onboard](https://form.waitlistpanda.com/go/wzWpBC8gAoDiC1LA19N1)**<br />You own your data. The social media you deserve.<br /><br />
 **[Orb](https://orb.ac)**<br />Decentralized professional social media app with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on Polygon chain.<br /><br />
 **[Phaver](https://phaver.com)**<br />Help us curate interesting stuff online and offline and get rewarded.<br /><br />
+**[Pinsta](https://testnet.pinsta.xyz/)**<br />Explore and collect images on Lens<br /><br />
 **[re:meme](https://www.rememe.lol)**<br />On-chain meme generator, built on top of Lens Protocol<br /><br />
 **[Share](https://theshr.xyz)**<br />Publish, Read, Connect and Collect the Best Writings of Your Favorite Authors<br /><br />
 **[theDial](https://www.thedial.xyz/)**<br />A social canvas where prompts become craft<br /><br />
@@ -60,6 +62,7 @@ Decentralizing the whole social media stack is going to require big infrastructu
 **[Degrees Of Seperation Module](https://github.com/lens-protocol/modules/blob/master/contracts/reference/DegreesOfSeparationReferenceModule.sol)**<br />This reference module allows to set a degree of separation n, and then allows to comment/mirror only to profiles that are at most at n
  degrees of separation from the author of the root publication.<br /><br />
 **[Lens Kit](https://github.com/daoleno/lenskit)**<br />Community build Lens Protocol UI React KIT<br /><br />
+**[Lens Py](https://github.com/TobiasLoader/LensPy)**<br />Python library for the Lens Protocol.<br /><br />
 **[lens-use](https://github.com/memester-xyz/lens-use)**<br />React Hooks for Lens Protocol<br /><br />
 **[Lens.js](https://github.com/suhailkakar/lens.js)**<br />Community made JavaScript SDK for Lens Protocol<br /><br />
 **[LensSDK](https://github.com/lens-protocol/lens-sdk)**<br />The official SDK to interact with the Lens Protocol<br /><br />
@@ -85,12 +88,12 @@ Every profile has an owner and with that, we are building up an on-chain identit
 **[MyDome](https://www.mydome.xyz/)**<br />Your web3 identity In one link.<br /><br />
 **[Nimi](https://nimi.eth.limo)**<br />Your web3 profile page.<br /><br />
 **[Sismo](https://www.sismo.io/)**<br />The key primitive for web3 identities<br /><br />
+**[TalentLayer](https://talentlayer.org/)**<br />Building web 3 work platforms is hard.<br /><br />
 **[Talently](https://talently.app/)**<br />Showcase your web3 profile<br /><br />
 ## Music 🎶
 The Lens social graph has the power to revolutionize the music experience for both fans and artists. Fans will have new ways to discover music, find like-minded fans, and experience music together. Artists will have new ways to deepen their fan connection, and new options for commercializing their creations.
 <br />
 <br />**[Amnisiac](https://www.amnisiac.xyz/)**<br />A decentralized music app built on lens protocol<br /><br />
-**[Beats.xyz](https://wavwrld.com)**<br />Building infrastructure to enable unique musical experiences that connect artist with their true fans<br /><br />
 **[ClubSpace](https://www.joinclubspace.xyz/)**<br />ClubSpace is a live listening party for creators to share their curated music NFTs with their Lens frens<br /><br />
 **[Decent](https://decent.xyz/)**<br />Enable creators and developers to own and monetize the work they produce via web3 applications that leverage NFTs as more than just digital collectibles.<br /><br />
 **[Lyrical World](https://www.lyrical.world/)**<br />Lyrical is a way to visualize song moments. Musicians have presets for their songs which can be remixed.<br /><br />
@@ -103,7 +106,10 @@ IRL and remote events are embedded into our social experience. Tickets are now N
 <br />**[Ticklens](https://github.com/ArturVargas/ticklens.js)**<br />An awesome JavaScript SDK to create your ticket platform over Lens protocol<br /><br />
 **[Web3Event](https://web3events.ai/)**<br />Create, distribute and monitor tickets for events with Web3Event's Ticketing Platform<br /><br />
 **[Welook](https://welook.io/)**<br />Create your own POAPs, and share them with the world. Discover new wallets and POAPs.<br /><br />
-## Algorithms 🧮
+## Monetization 💰
+.
+<br />
+<br />## Algorithms 🧮
 One challenge that every social application faces is how to moderate content and prevent spam in a censorship-resistant way. We know that if left unmoderated, spam and bots can ruin the experience and the trust and safety of the users. Having choice and transparency over which algorithms we use is part of the web3 social experience.
 <br />
 <br />**[Cultivator](https://cultivator.cc)**<br />Visual Explorer of the Lens Protocol Social Graph<br /><br />
@@ -118,21 +124,7 @@ for user-generated roadmaps, grants, endorsements, bounties, curation, and commu
 ## Other
 There are still many opportunities and verticals to explore in web3 social. We are still too early and it is not clear how many use cases will emerge out of web3 social. 
 <br />
-<br />**[ArtofficialIntelligence](https://www.artofficialintelligence.xyz/)**<br />Text2Image NFT generator where you can monetize your beautiful AI creations<br /><br />
-**[guild.xyz](https://guild.xyz/our-guild)**<br />Managed Lens discord roles<br /><br />
-**[Hashchat](https://www.hashchat.xyz)**<br />We provide end-to-end encryption to keep your messages safe. You deserve to be in control of your data.<br /><br />
-**[Huddle01](https://huddle01.com/)**<br />One-click Meetings. Login with Web3, create token-gated spaces, use NFT avatars and decentralized storage.<br /><br />
-**[Infinity Keys ](https://www.infinitykeys.io/)**<br />Infinity Keys is a no-code creator tools platform for brands and fans to build engaging metaverse treasure hunt experiences.<br /><br />
-**[Interface Social](https://www.interface.social/)**<br />Social mobile app with human readable web3 feed.<br /><br />
-**[Mad.Finance](https://madfinance.xyz/)**<br />Thge ad protocol for web3, paying content creators in real-time <br /><br />
-**[PhiLand](https://philand.xyz)**<br />Unlock Lens challenges to build your web3 cities from your wallet activities. <br /><br />
-**[RallyFM](https://alpha.letsrally.fm/)**<br />Rally is an open-source alternative to Twitter Space and Clubhouse. Just connect your wallet and pick a room to drop-in and listen what's up.<br /><br />
-**[Roci.fi](https://roci.fi/)**<br />On-chain credit scoring for under-collateralized retail loans.<br /><br />
-**[SendACoin](https://sendacoin.to/)**<br />Visit the handle page for your profile. Look at your profile's appearance.<br /><br />
-**[SocialNouns](https://socialnouns.wtf/)**<br />Social Nouns NFT Collection<br /><br />
-**[Troop.Finance](https://www.troop.finance)**<br />Invest better together<br /><br />
-**[Wav3s](https://solitary-voice-4207.fly.dev/)**<br />Reward users sharing your publications<br /><br />
-## Resource 📖
+<br />## Resource 📖
 Learn more about our protocol, web3social and our ecosystem the #Lensverse with curated high quality resources
 <br />
 <br />**[Awesome Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)**<br />A curated list of awesome Lens Protocol projects, resources, libraries, tools and more.<br /><br />
